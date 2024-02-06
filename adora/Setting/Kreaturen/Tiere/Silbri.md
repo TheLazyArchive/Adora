@@ -9,10 +9,10 @@ tags:
 share: "true"
 ---
 
-![00007-3902819631](../../../00007-3902819631.png)
+![Silsel.png](../../../Silsel.png)
 
 
-Ein Vogel, der seit dem [Niedergang](../../Geschichte%20von%20Adora/Der%20Niedergang.md) existiert und durch eine Mutation hervorgegangen ist. Er kann den Nektar der [Silberblumen](../../../../Silberblumen.md) konsumieren und ernährt sich hauptsächlich dadurch. 
+Ein Vogel, der seit dem [Niedergang](../../Geschichte%20von%20Adora/Der%20Niedergang.md) existiert und durch eine Mutation hervorgegangen ist. Er kann den Nektar der [Silberblumen](../Vegetation/Silberblumen.md) konsumieren und ernährt sich hauptsächlich dadurch. 
 
 Relativ kleiner Vogel, schneller Flügelschlag, kurzer Schnabel aber mit langer Zunge. Farbenprächtiges Gefieder mit beeindruckenden Streifen aus Silber. Langer Schweif. 
 

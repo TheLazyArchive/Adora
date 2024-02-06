@@ -4,6 +4,7 @@ Type: Ort
 aliases:
   - Oberwelt
   - Der Himmel
+  - Himmels
 tags:
   - Adora
   - Götter

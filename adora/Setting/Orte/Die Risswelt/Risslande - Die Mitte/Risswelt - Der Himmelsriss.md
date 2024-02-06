@@ -1,0 +1,14 @@
+---
+share: "true"
+Status: Idee
+Type: Setting
+---
+
+Siehe auch: [Das Himmelstor](../Risswelt%20-%20Das%20Himmelstor.md)
+
+
+Die Götter stammen aus dem Himmel und sind hinabgestürzt. Nicht weil sie sich freiwillig über den Himmelsrand geschmissen hätten, sondern weil ihnen wortwörtlich die Wolken unter den Füßen hinweggerissen wurden. Mitsamt der Götter stürzten auch große Teile des Himmels auf die Welt hinab und erzeugten neue Biome, die zuvor von den Unterweltlern nur erträumt wurden. 
+Zurückgelassen hat der Niedergang ein gigantisches Loch im Himmel, das egal von wo man hinauf sieht, die Mitte des Himmels einnimmt. Zu jeder Zeit ist es unverkennbar, denn jeder, der gerade hineinblickt fühlt wie sein Blick im puren Nichts verschwindet. Gleich einer angebrochenen Glasscheibe ziehen sich auch durch den Rest des Himmels sichtbare Risse, die ab und an kleiner und manchmal auch größer werden. Die Überlebenden des Niedergangs erklären sich dies damit, dass nicht alle [Götter](../../../../../G%C3%B6tter.md) auf die Erde niedergegangen sind. Eine These die auch durch den Umstand gestärkt wird, dass Sonne, Mond und ein paar Sterne noch am Himmel zu erkennen sind, auch wenn sie das Loch in der Mitte des Himmels großzügig umwandern. Wobei überlebende Sternenkundler davon überzeugt sind, dass sich die Sterne in den letzten Jahren zum Loch hinbewegt haben und versuchen es zu umringen. Besorgte Beobachter behaupten sogar miterlebt zu haben wie Sterne, die sich zu nahe an das Loch herangewagt haben, von ihm verschluckt wurden. Die Bahnen der Gestirne sind nicht immer regelmäßig. Tage und Nächte unterscheiden sich scheinbar zufällig in ihrer Dauer um ein paar Stunden. Sehr selten, so 1 - 2 Mal alle 5 Jahre, gibt es entweder am Anfang, Ende oder in der Mitte des Jahres Tage an denen Mond oder Sonne nicht mehr vom Himmel verschwinden. Die Unterweltler nennen dieses Phänomen entweder “[Nienacht](../../../Kulturen/Besondere%20Tage%20und%20Ereignisse/Nienacht.md)” oder “[Langtag](../../../Kulturen/Besondere%20Tage%20und%20Ereignisse/Nienacht.md)” und “[Nietag](../../../Kulturen/Besondere%20Tage%20und%20Ereignisse/Nienacht.md)” oder “[Langtag](../../../Kulturen/Besondere%20Tage%20und%20Ereignisse/Nienacht.md)”. 
+
+
+Manche empfindsame Unterweltler fühlen sich permanent unwohl unter dem neuen Himmel. Sie behaupten, dass sie sich seither beobachtet fühlen, als würde irgendwas jede ihrer Bewegungen ganz genau verfolgen. Dadurch haben sich kleine, und manchmal auch größere, Gemeinschaften gebildet, die das Loch im Himmel entweder als feindliche Existenz oder als einen neuen übergeordneten Gott interpretieren. 

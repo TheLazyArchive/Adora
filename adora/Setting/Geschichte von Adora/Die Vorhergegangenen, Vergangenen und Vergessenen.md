@@ -6,6 +6,10 @@ tags:
   - Geschichte
   - Background
 share: "true"
+aliases:
+  - Vorhergegangenen
+  - Vergangenen
+  - Vergessenen
 ---
 
 ## Was sind die Vorhergegangenen, Vergangenen und Vergessenen?

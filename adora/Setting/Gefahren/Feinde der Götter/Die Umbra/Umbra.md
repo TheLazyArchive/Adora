@@ -8,7 +8,7 @@ tags:
   - Konflikt
 share: "true"
 ---
-Die Gefangenen der [Tiefe](../../../Orte/Biome/Tiefe.md). Wurden vom Schöpferwesen besiegt und verbannt. Der gesamte Planet Adora ist ihr Gefängnis und wurde nur erschaffen, um sie so lange wie möglich zu binden. 
+Die Gefangenen der [Tiefe](../../../Orte/Biome/Die%20Innere%20Welt/Tiefe.md). Wurden vom Schöpferwesen besiegt und verbannt. Der gesamte Planet Adora ist ihr Gefängnis und wurde nur erschaffen, um sie so lange wie möglich zu binden. 
 
 Jedem Lebewesen ist ein tiefer, angeborener Hass für diese Wesen inne. Sie wurden vom Schöpferwesen so programmiert. 
 

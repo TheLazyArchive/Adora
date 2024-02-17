@@ -26,6 +26,9 @@ Deswegen sind die Einwohner sehr daran interessiert alle Besucher permanent für
 ### Eigenarten der Himmelsscherbe
 
 
+### Visuelles
+
+
 ### Zugang
 
 Der Geltscher verhindert einen einfachen Zugang. Es gibt bestimmte Zeitfenster in denen ein Zugang möglich ist. Diese sind an den ursprünglichen Rhythmus der Scherbe gebunden, der aber zunehmend durch das Chaos gestört wird. 

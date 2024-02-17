@@ -32,4 +32,4 @@ Synx gebären nur sehr selten andere Synx. Getrieben vom animalischen Instinkt d
 Oft bleiben die Kinder im Gebiet der Mutter, da die Synx sich gut um ihre Kinder kümmern. Sie wachsen fast alle zu überdurchschnittlichen Wesen heran. Und wehe jenem, der ein Kind einer Synx umbringt. Um ihren Nachwuchs zu beschützen oder Rache an einem Feind zu nehmen, entwickeln die Synx absurde Kräfte, die ihrer animalischen Seite entspringt. Sie werden daher auch als die “Königinnen der Bestien” bezeichnet und es gibt mehr als eine Geschichte von Königreichen, die eine Synx entführt haben, nur um von ihren wütenden Kindern ausgelöscht zu werden oder von Synx, die Göttliche töteten, die versucht haben ihre Kinder zu entführen. 
 
 
-- [ ] muss an die neue Background Story durch die [Tiefe](../Orte/Biome/Tiefe.md) angepasst werden. 
+- [ ] muss an die neue Background Story durch die [Tiefe](../Orte/Biome/Die%20Innere%20Welt/Tiefe.md) angepasst werden. 

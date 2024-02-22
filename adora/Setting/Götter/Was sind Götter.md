@@ -9,6 +9,8 @@ share: "true"
 aliases:
   - Gott
   - Götter
+  - Gottes
+  - Göttern
 ---
 ```table-of-contents
 ```

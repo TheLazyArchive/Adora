@@ -5,15 +5,6 @@ tags:
   - Template
   - Adora
 share: "true"
-aliases: 
----
----
-Status: Draft
-Type: Ort
-tags:
-  - Template
-  - Adora
-share: "true"
 aliases:
 ---
 ```table-of-contents
@@ -27,6 +18,14 @@ Template fürs tatsächliche Spiel zur Vorbereitung von Orten, die wichtig für 
 
 ### Beschreibung:
 Kurzbeschreibung des Ortes, Fokus auf Atmosphäre und potentielle Gesprächspartner/interaktive Gegenstände.  
+
+
+### Inspiration: 
+
+
+
+### Themes: 
+
 
 ### Geschichte: 
 Was ist der Hintergrund des Ortes? 

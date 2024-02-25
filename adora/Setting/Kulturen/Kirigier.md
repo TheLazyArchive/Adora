@@ -10,8 +10,6 @@ aliases:
 ```table-of-contents
 ```
 
-Achtung super detailiert. 
-
 ## Kurzbeschreibung:
 
 ### Brainstorming:
@@ -189,9 +187,13 @@ Welche Minderheiten existieren? Wie werden sie wahrgenommen? Wie werden sie beha
 ### **Fremde [Kulturen](./index.md):**
 Wie werden fremde [Kulturen](./index.md) wahrgenommen? Wie interagieren Mitglieder dieser Kultur mit den fremden [Kulturen](./index.md)? Welche Art von Beziehungen sind mit Fremden erlaubt/verboten?
 
+[Loheni'Da'Hara'In](./Loheni'Da'Hara'In.md): 
+
+[Sternenfahrer](./Die%20Sternenfahrer.md): 
+
+[Zeferi](./Die%20Zeferi.md): 
 
 
-	
 ## Kulturelle Erscheinung
 
 ### **Zierde/Schmuck:**
@@ -711,7 +713,7 @@ Himmelsmagie, Ur-Elemente, Schattenmächte, etc.
 ### **Krieg/Eroberungen:**
 Führen die Wesen Krieg? Fangen sie die Kriege an oder verteidigen sie sich? Wie sehen sie Krieg? Wie werden eroberte Völker behandelt? Wie expansionistisch sind die Wesen? Warum? 
 
-- [Sortêk](../../Sort%C3%AAk.md): Eroberung einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) im Namen des [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md). 
+- [Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md): Eroberung einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) im Namen des [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md). 
 
 
 ### **Widerstand:**
@@ -1002,7 +1004,7 @@ Welche Nationen besitzen die Kultur? Erläuterung/Verweis.
 ### **Siedlungen**:
 Generelle Übersicht. Warum wichtig? 
 
-
+[Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md): Stadt auf einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) unter Kontrolle der Kirigier und ihrem Gott. Verleiht ihnen eine sehr starke militärische Position, die das gesamte Umland bedroht. 
 
 
 
@@ -1023,7 +1025,3 @@ Generelle Übersicht. Warum wichtig?
 ## Terminologie:
 Glossar. Definitionssammlung für diese Kultur.
 
-
-
-
-- [x] Unter-Headings verteilen und formatieren ✅ 2024-02-24

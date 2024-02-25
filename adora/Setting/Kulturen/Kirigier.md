@@ -1,27 +1,52 @@
 ---
 share: "true"
+Status: Draft
+Type: Kultur
+tags:
+  - Adora
+  - Template
+aliases:
 ---
-Name:
+```table-of-contents
+```
+
+Achtung super detailiert. 
+
+## Kurzbeschreibung:
+
+### Brainstorming:
+
+
+### Inspiration:
+
+
+### Thema:
+Was sind die zentralen Themen der Stadt? Welche Atmosphäre soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
+
+
+## Grundlagen
+
+### **Name**:
 Wie nennen sich diese Leute? Wie werden sie von anderen genannt? Welche Bedeutung tragen diese Namen?
 
 
 
  	
-Übersicht:
+### **Übersicht**:
 Eine kurze Übersicht über die Bewohner und Kultur. Querschnitt in kurz. Am Ende überarbeiten, damit man es im Buch als Kurzbeschreibung verwenden kann. 
 
 
 
 
 	
-Physische Eigenschaften:
+### **Physische Eigenschaften:**
 Generische Beschreibung:
 Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen Unterschiede von einem bis zum anderen Extrem?
 
 
 
 
-Einzigartige Fähigkeiten:
+### **Einzigartige Fähigkeiten:**
 Welche einzigartigen Fähigkeiten besitzen diese Wesen? Ist die Natur dieser Fähigkeiten magisch oder natürlich? Wie häufig treten diese Fähigkeiten auf?
 
 
@@ -29,358 +54,366 @@ Welche einzigartigen Fähigkeiten besitzen diese Wesen? Ist die Natur dieser Fä
 
 
 	
-Geographie:
-Heimat:
+## Geographie
+### **Heimat:**
 Woher stammen die Wesen? Wo leben sie aktuell? Wer sind ihre Nachbarn?
 
 
 
 
-Klima:
+### **Klima**:
 Was ist das Klima ihrer Heimatregion? An welches Klima sind sie angepast? In welchem Klima leben sie aktuell?
 
 
 
-Terrain:
+### **Terrain**:
 Wie ist die Beschaffenheit des Terrain in der Heimatregion? In dem Bereich, in dem sie zur Zeit leben?
 
 
 
 	
-Wirtschaft:
-Agrikultur:
+## Wirtschaft
+
+### **Agrikultur**:
 Betreiben sie Landwirtschaft? Wo und welcher Art? Welche Pflanzen werden dafür genutzt?
 
 
 
 
-Domestizierte/Gezähmte Tiere:
+### **Domestizierte/Gezähmte Tiere:**
 Welche Tiere wurden domestiziert? Züchten sie Tiere? Sind Tierherden ein wichtiger Bestandteil ihrer Kultur?
 
 
 
 
-Jagen:
+### **Jagen**:
 Jagen diese Wesen? Was jagen sie? Jagen sie, um sich zu ernähren oder aus anderen Gründen? Wie wichtig ist die Jagd? Wie wichtig ist die Jagd im Vergleich zum Sammeln/Landwirtschaften/Züchten?
 
 
 
 
-Sammeln:
+### **Sammeln**:
 Sammeln diese Wesen? Was sammeln sie? Sammeln sie, um sich zu ernähren oder aus anderen Gründen? Wie wichtig ist das Sammeln? Wie wichtig ist das Sammeln im Vergleich zum Jagen/Landwirtschaften/Züchten?
 
 
 
 
 
-Industrie:
+### **Industrie**:
 Wie industriell sind diese Wesen? Welche Industriearten existieren? Ist die Produktion für den Binnenmarkt oder für den Export?
 
 
 
 
-Natürliche Ressourcen:
+### **Natürliche Ressourcen:**
 Welche natürlichen Ressourcen nutzen diese Wesen? Wie wichtig sind sie? Werden sie für den eigenen Gebrauch erwirtschaftet oder um fremden Bedarf zu decken?
 
 
 
 
-Handel:
+### **Handel:**
 Welche Güter werden gehandelt? Binnenhandel? Export? Import? Wie wichtig sind die einzelnen Handelsarten für die Wirtschaft? Gibt es eine Art Handelskaste?
 
 
 
 
-Währung:
+### **Währung**:
 Haben sie eine Währung? Wie ist die Währung beschaffen? Wie verfügbar ist die Währung? Woher stammt sie und wer hat Gewalt über die Verteilung der Währung?
 
 
-
+## Politik
 
 	
-Politische Struktur:
-Generische Beschreibung:
+### **Politische Struktur:**
+#### Generische Beschreibung:
 Welche Art von politischen Institutionen wird benutzt? Regierungsform? Wie integriert sind diese politischen Institutionen im alltäglichen Leben der Wesen? Wer kontrolliert diese Institutionen?
 
 
 
 
-Politische Geschichte:
+#### **Politische Geschichte:**
 Wie hat die politische Geschichte das aktuelle Bild der Kultur beeinflusst?
 
 
 
 
-Politische Anführer:
+#### **Politische Anführer:**
 Wer führt die politischen Institutionen an? Priester, Kriegsfürsten, Landbesitzer, Bürokraten, gewählte Vertreter? Wie werden sie gewählt/eingesetzt oder wie ergreifen sie die Macht? Wie legitimieren sie ihre Herrschaft?
 
 
 
 
-Politische Macht:
+#### **Politische Macht:**
 Wie mächtig und zentralisiert sind die politischen Machtträger? Wodurch können diese Regierungen bestehen, sich durchsetzen und das Leben ihrer Subjekte beeinflussen? 
 
 
 
 
-Politische Strukturen:
+#### **Politische Strukturen:**
 Welche Strukturen existieren innerhalb der Regierung? Wo liegt die Macht? Besitzen nur jene an der Spitze der Hierarchie die Macht oder liegt auch Macht bei denen auf der untersten Stufe der Machtpyramide? Wie ist das Verhältnis?
 
 
-
-
-Religion in der Politik:
+#### **Religion in der Politik:**
 Welche Rolle spielt Religion und Glaube in der Poltik? Halten Priester größere Macht als Politiker? Sind sie Teil der politischen Institutionen oder eine separate Macht? Halten sie bestimmte Ämter, Aufgaben und Verantwortungen?
 
 
 
 
-Magie in der Politik:
+#### **Magie in der Politik:**
 Welche Rolle spielt Magie und/oder magisches Wissen in der Poltik? Halten Magier größere Macht als Politiker und/oder Priester? Sind sie Teil der politischen Institutionen oder eine separate Macht? Halten sie bestimmte Ämter, Aufgaben und Verantwortungen?
 
 
 
 	
-Meinung über andere Kulturen:
-Regionale Unterschiede:
+### **Meinung über andere [Kulturen](./index.md):**
+
+
+## Regionale Unterschiede
+
+
+### **Subkulturen**: 
 Gibt es regionale Subkulturen? Wie stehen sie zueinander? Welche Subkultur/Region ist dominant (kulturell, politisch, wirtschaftlich, gesellschaftlich, etc)?
 
 
 
-Subkulturen:
+### **Subkulturen - Beziehungen:**
 Wie sehen die Subkulturen aus? Wie viele existieren? Wie groß sind sie? Wie werden sie von der Mainstream Kultur beurteilt? Welche Art der Interaktionen sind mit diesen Subkulturen erlaubt/verboten?
 
 
 
-Minderheiten:
+### **Minderheiten**:
 Welche Minderheiten existieren? Wie werden sie wahrgenommen? Wie werden sie behandelt? Welche Interaktionen sind erlaubt/verboten?
 
 
 
-Fremde Kulturen:
-Wie werden fremde Kulturen wahrgenommen? Wie interagieren Mitglieder dieser Kultur mit den fremden Kulturen? Welche Art von Beziehungen sind mit Fremden erlaubt/verboten?
+### **Fremde [Kulturen](./index.md):**
+Wie werden fremde [Kulturen](./index.md) wahrgenommen? Wie interagieren Mitglieder dieser Kultur mit den fremden [Kulturen](./index.md)? Welche Art von Beziehungen sind mit Fremden erlaubt/verboten?
 
 
 
 	
-Kulturelle Erscheinung:
-Zierde/Schmuck:
+## Kulturelle Erscheinung
+
+### **Zierde/Schmuck:**
 Welchen Schmuck tragen diese Wesen? Unterscheiden sie zwischen Schmuck für den Alltag und besondere Events? Hat der Schmuck besondere Bedeutungen?
 
 
 
-Tattoos/Narbenverzierung/Piercings:
+### **Tattoos/Narbenverzierung/Piercings:**
 Verändern diese Wesen bewusst ihre Haut auf permanente Art und Weise? Tattowieren sie sich? Vernarben sie sich absichtlich oder brandmarken sich? Steht dahinter eine rituelle Bedeutung? Haben die Tattoos/Narben/Piercings selbst bestimmte Bedeutungen?
 
 
 
-Makeup:
+### **Makeup**:
 Wie malen sie sich an und warum?
 
 
 
-Kleidung:
+### **Kleidung**:
 Tragen sie Kleidung? Welche Kleidung tragen sie? Wie wichtig ist die richtige Kleidung? 
 
 
 
-Haare:
+### **Haare**:
 Wie sieht die natürliche Behaarung der Wesen aus? Wie stylen sie es? Wie wird mit Gesichts/Körperbehaarung umgegangen? Gibt es Unterschiede zwischen den Geschlechtern? Zwischen Kindern, Erwachsenen und Alten?
 
 
 
-Anziehung:
+### **Anziehung**:
 Was gilt unter den Wesen als “schön” und “attraktiv”? Was sind die Standards für die Geschlechter? Was gilt als “hässlich”? Wo liegt der unterschied zwischen “süß” und “hübsch”? Wo ist der Unterschied zwischen “heiß” und “sexy”? 
 
 
 
 	
-Kulturelle Erzeugnisse:
-Architektur:
+## Kulturelle Erzeugnisse
+
+### **Architektur**:
 Was ist der typische architektonische Stil der Wesen? Bauen sie überhaupt Häuser? Wo ist der Unterschied zwischen informalen Durchschnittsgebäuden und den großen Projekten der Reichen oder Bedeutenden? Werden die Gebäude für langfristigen Bestand gebaut oder nur für kurzfristige Unterkunft? Wie stabil sind sie und was werden sie gebaut?
 
 
 
-Kunst:
+### **Kunst**:
 Welche Arten von Kunst werden von den Wesen erschaffen? Welche Bedeutung spielt Kunst in der Gesellschaft?
 
 
 
-Werkzeuge:
+### **Werkzeuge**:
 Was sind typische Werkzeuge, die von den Wesen gebaut werden? Wozu werden sie gebraucht?
 
 
 
-Kunstgegenstände/Verzierungen:
+### **Kunstgegenstände/Verzierungen:**
 Womit werden Häuser verschönert? Welche Teile der Inneneinrichtung verziert, welche werden es nicht?
 
 
 
-Symbolismus:
+### **Symbolismus**:
 Welche Symbole sind wichtig für die Wesen? Warum sind sie wichtig und wie wichtig sind sie?
 
 
 
-Idiome:
+### **Idiome**:
 Welche Phrasen benutzen diese Leute? Was bedeuten sie und woher kommen sie?
 
 
 
-Literatur/Geschichten:
+### **Literatur/Geschichten:**
 Was für Literatur wird von diesen Wesen geschrieben? Wie wichtig ist das geschriebene Wort für die Kultur?
 
 
 
-Musik:
+### **Musik**:
 Was für Musik wird von diesen Wesen komponiert? Welche Instrumente werden benutzt? Wie wichtig ist Musik für die Kultur?
 
 
 
-Nahrung/Kochen:
+### **Nahrung/Kochen:**
 Was kochen die Wesen? Was gilt als gerade akzeptabel, was gilt als Delikatesse? Wie wichtig ist das kunstvolle Zubereiten von Nahrung? 
 
 
 
-Kalendar/Zeitrechnung:
+### **Kalendar/Zeitrechnung:**
 Wie gehen die Wesen mit Zeit um? Haben sie die selbe Zeitrechnung wie der Rest der Welt? Wie wichtig ist ihnen ihre Zeitmessung?
 
 
 
 	
-Allgemeine Leben:
-Familie:
+## Allgemeine Leben
+
+### **Familie**:
 Wie sehen die Familienstrukturen dieser Wesen aus? Wie lange halten sie? Wem ist es erlaubt eine Familie zu gründen? Wie wichtig ist der soziale Stand für eine Familie?
 
 
 
 
-
-Umwerben
+### **Umwerben**
 Wie werben die Wesen um Aufmerksamkeit? Wer beginnt das Umwerben? Wie wichtig ist der Prozess des Umwerbens? Gibt es rituelle Schritte innerhalb dieses Prozesses? Wie wichtig ist Zustimmung beider Parteien auch in Relation zu gesellschaftlichem Druck? Wem ist es erlaubt wen zu umwerben? Was ist das Mindestalter für den Umwerbungsprozess? Sind Beziehungen ohne ein Umwerben akzeptiert?
 
 
 
 
-Bindungsrituale:
+### **Bindungsrituale**:
 Welche Bindungsrituale werden praktiziert? Heirat? Harem? Seelenbund? Was ganz anderes? Wem ist es erlaubt sich zu binden? Welche Voraussetzungen müssen erfüllt sein? Sind Kinder ohne Bindung akzeptiert? Wie ökonomisch ist die Bindungsentscheidung?
 
 
 
 
 
-Mischen von Blut und Rassen:
-Wie aufgeschlossen sind die Wesen gegenüber Bindungen mit anderen Rassen/Kulturen? Wie aufgeschlossen sind sie gegenüber Bindungen mit Wesen aus anderen Klassen/Kasten? 
+### **Mischen von Blut und Rassen:**
+Wie aufgeschlossen sind die Wesen gegenüber Bindungen mit anderen Rassen/[Kulturen](./index.md)? Wie aufgeschlossen sind sie gegenüber Bindungen mit Wesen aus anderen Klassen/Kasten? 
 
 
 
 
 
-Schwangerschaft:
+### **Schwangerschaft**:
 Wie wird Schwangerschaft gesehen? Welche biologischen Besonderheiten hat die Schwangerschaft dieser Wesen? Worauf müssen schwangere Wesen achten? Gibt es Dinge, die ihnen verboten sind? Ändert sich ihr soziales Ansehen? Wie wichtig ist dafür der Stand/die Rolle des Partners? Mit welchen anderen Rassen kann das Wesen überhaupt schwanger werden? In welchem Zusammenhang steht die Schwangerschaft zu den Geschlechtern?
 
 
 
 
-Geburt:
+### **Geburt**:
 Wie wird die Geburt betrachtet? Wer ist an dem Prozess beteiligt? Gibt es Wege Einfluss auf die Chancen einer erfolgreichen Geburt zu nehmen? Wie gefährlich ist die Geburt? Was glauben die Wesen hat Einfluss auf die Geburt?
 
 
 
 
-Vormünder und Vorbilder:
+### **Vormünder und Vorbilder:**
 Gibt es Wesen, die nicht die Eltern sind, die über das Kind wachen? Sind es Blutsverwandte? Welche Pflichten haben die Vormünder gegenüber dem Kind/den Eltern? Visa versa? Wer wird gerne als Vorbild dargestellt und warum? 
 
 
 
-Kinder:
+### **Kinder**:
 Welche Rollen spielen Kinder innerhalb der Gesellschaft? Von wem werden sie erzogen und versogt? Was wird von ihnen erwartet? Was ist ihnen als Kind erlaubt? Was wird ihnen schnell verziehen? Wie werden die Eltern von “ungezogenen” Kindern gesehen?
 
 
 
-Als Erwachsener:
+### **Als Erwachsener:**
 Ab wann gilt ein Kind als Erwachsener? Wird das Erwachsensein mit einem Ritual/einer Prüfung eingeläutet? Wie verändern sich die Aufgaben und die Verantwortungen? Kann ein Kind unter bestimmten Umständen als Erwachsener gelten? Wie sind die Unterschiede im Gesetz zwischen Kindern und Erwachsenen?
 
 
 
 
 
-Alten:
+### **Alter und Seniorität:**
 Wie behandeln diese Wesen ihre Alten? Welche Rollen füllen sie? Was ist von ihnen erwartet? Ab wann gilt ein Erwachsener als ein “Alter”. 
 
 
 
-Tod und Beerdingungsriten:
+### **Tod und Beerdingungsriten:**
 Wie verhalten sich die Wesen gegenüber ihrer Toten? Wie wichtig ist der Tod in der Gesellschaft? Werden die Toten begraben? Verbrannt? Wie groß sind die damit verbundenen Riten? Wie werden die Riten vorbereitet und wer führt sie durch? Gibt es einen Ahnenkult um die Verstorbenen? 
 
 
 
 	
-Technologie:
-Technologischer Fortschritt und Verfügbarkeit:
+## Technologie
+
+### **Technologischer Fortschritt und Verfügbarkeit:**
 Über welche Technologien verfügt das durchschnittle Wesen? Was sind die technologischen Durchbrüche der letzten Zeit? Wie verbreitet ist Technologie innerhalb der Gesellschaft? Wie verbreitet ist die “hoch entwickelte” Technologie? Wo werden sie entwickelt?
 
 
 
 
-Haushalt:
+### **Haushalt**:
 Welche Technologien werden in typischen Haushalten tagtäglich benutzt? Wie verändert sich das in reichen Haushalten?
 
 
 
 
-Magitech:
+### **Magitech**:
 Wird Magie zusammen mit Technologie benutzt? Wie spielen sie zusammen? Was ist die Antriebsquelle? Stören sie einander? Gab es gewaltige Katastrophen in dem Versuch Technologie und Magie zu kombinieren? 
 
 
 
 
 
-Landwirtschaft:
+### **Landwirtschaft**:
 Wie profitiert die Landwirtschaft von dem technologischen Stand? Wie weit verbreitet ist das Wissen und wer kann davon profitieren?
 
 
 
 
 
-Manufaktur:
+### **Manufaktur**:
 Welche Werkzeuge und Produktionstechnologien stehen den Wesen zur Verfügung? Wie automatisiert sind sie? Wer verfügt über die Produktionsmittel?
 
 
 
-Extraktion von Ressourcen:
+### **Extraktion von Ressourcen:**
 Welche Werkzeuge werden für den Abbau von Ressorucen benutzt? Wer besitzt diese Werkzeuge?
 
 
 
-Terraforming:
+### **Terraforming**:
 Wie sehr nehmen die Wesen Einfluss auf die Form des Lands? Wodurch? Weshalb? 
 
 
 
 
 
-Transport:
+### **Transport**:
 Welche Arten von Straßen/Schiffen/Karren/Kutschen/Fahrzeugen werden von diesen Wesen benutzt? Wer hat Zugang zu diesen Transportmitteln?
 
 
 
 
-Architektur:
+### **Architektur**:
 Wie fortschrittlich sind die Gebäude der Wesen? Wie hoch können sie bauen? Wie profitieren sie von ihrer Technologie, um sich gegen feindliche Armeen und natürliche Disaster zu schützen? 
 
 
 
 
 	
-Soziale Strukturen:
-Namensgebung:
+## Soziale Strukturen
+
+### **Namensgebung**:
 Wie sind die Namen der Wesen strukturiert? Haben sie überhaupt Namen? Wer gibt ihnen die Namen und welche Arten von Namen gibt es? 
 
 
 
 
 
-Gewöhnliche Namen:
+### **Gewöhnliche Namen:**
 Was sind häufige Namen unter diesen Wesen? Welche Geschlechter tragen die Namen? Was sind häufige Vor und Nachnamen? Gibt es häufige Titel, die Teil der Namen sind?
 
 
@@ -388,203 +421,204 @@ Was sind häufige Namen unter diesen Wesen? Welche Geschlechter tragen die Namen
 
 
 
-Ausbildung:
+### **Ausbildung:**
 Welche Formen der Ausbildung existieren für die Wesen? Welche Gruppen erhalten welche Art der Ausbildung? Wer bildet aus und warum? 
 
 
 
 
 
-Erbschaft:
+### **Erbschaft**:
 Wie sind die Erbschaftsregeln? Wer gilt im Todesfall als Erbe? Wie unterscheidet sich Erbschaft zwischen den Subkulturen? Wie wichtig ist Erbschaft in der Gesellschaft?
 
 
 
 
 
-Klasse/Kaste:
+### **Klasse/Kaste:**
 Werden die Wesen in Klassen und/oder Kasten eingeteilt? Sind die sozialen Grenzen zwischen den Gruppen hart oder weich? Wie verhalten sich verschiedene Kasten/Klassen untereinander? Interagieren sie überhaupt? Wie viel der Interaktion ist offiziell erlaubt/verboten? Welche Konsequenzen sind zu erwarten wenn man sich nicht entsprechend des Systems verhält? 
 
 
 
 
-Landbesitz:
+### **Landbesitz**:
 Wer besitzt das Land, auf dem die Wesen leben? Wie mächtig ist der Landbesitzer? Gibt es Restriktionen wer land besitzen darf? Welcher Art sind die Restriktionen und wie werden sie durchgesetzt? Wird Land auf irgendeine Art verpachtet? Dürfen Landbesitzer militärische Macht ausbilden?
 
 
 
 
-Außenseiter/Ausgestoßene:
+### **Außenseiter/Ausgestoßene:**
 Wer sind die Außenseiter der Gesellschaft? Wie werden sie zu Außenseitern? Welchen Einfluss haben Beruf, Glaube, Abstammung, Rasse, politische Orientierung, etc.? Wie werden die Außenseiter anders behandelt als die normalen Mitglieder der Gesellschaft? 
 
 
 
 
-Die Verzweifelten:
+### **Die Verzweifelten:**
 Wer sind die Verlierer der Gesellschaft? Wie werden sie gesehen? Wie überleben sie, warum sind unter den Verlierern? Wie werden sie von anderen gesehen? Erhalten sie Hilfe, oder müssen sie sich selbst helfen?
 
 
 
 
 
-Wohltätigkeit:
+### **Wohltätigkeit:**
 An wen wenden sich die Verzweifelten und jene, die alles verloren haben, wenn es harte Zeiten gibt? Ist die Unterstützung lokal oder von der Obrigkeit organisiert? Welche Art der Hilfe ist verfügbar? Wie viel? Welcher Preis muss dafür bezahlt werden? Gibt es legale und illegale Hilfe? Werden die Verzweifelten ausgenutzt? 
 
 
 
 
 
-Gender Rollen und Strukturen:
+### **Gender Rollen und Strukturen:**
 Welche Art von geschlechtsspezifischen Rollen existieren unter den Wesen? Welches Verständnis von Gender liegt diesen Rollen zugrunde? Was wird von Frauen erwartet und was von Männern? Was wird nicht von Frauen erwartet und was wird nicht von Männern erwartet? Was ist den Geschlechtern verboten? 
 
 
 
 
 
-Gender Identität:
+### **Gender Identität:**
 Gibt es gewählte oder zugesprochene Identitäten, die abhängig vom Geschlecht sind? Warum? Welche Bedeutung tragen sie für die Gesellschaft? 
 
 
 
 
-Sexuelle Identität:
+### **Sexuelle Identität:**
 Wie sehen die Wesen und Geschlechter ihre Sexualität? Ist Heterosexualität die einzige akzeptierte Art? Welche andere Orientierungen sind erlaubt? Wie werden die einzelnen Orientierungen in der Gesellschaft betrachtet, wenn sie erlaubt sind? Wenn sie verboten sind? Welche Konsequenzen bedeutet es sich außerhalb der akzeptierten Norm zu bewegen? 
 
 
 
 
 
-Persönliche Identität:
+### **Persönliche Identität:**
 Welche Aspekte prägen die persönliche Identität eines Individuums? Familie, Klan, Staat, Beruf, Religion, Magie, Geschlecht, etc.? Wie wichtig ist es verschiedene Identitäten zu pflegen? 
 
 
 
 
 
-Höflichkeit/Manieren:
+### **Höflichkeit/Manieren:**
 Was gilt unter diesen Wesen als höflich und zuvorkommend? Wie werden Fremde behandelt? Familie? Freunde? Feinde? Rivalen?
 
 
 
 
-Bescheidenheit:
+### **Bescheidenheit:**
 Was bedeutet für diesen Wesen bescheiden zu sein? Wie wichtig ist Bescheidenheit? Wie unterscheidet sich Bescheidenheit unter den Klassen/Kasten? 
 
 
 
 
-Anstand:
+### **Anstand**:
 Was bedeutet Anstand für die Wesen? Wie wichtig ist es anständig zu sein? Wie unterscheidet sich Anstand zwischen den Kasten/Klassen/Subkulturen, aber auch zwischen den Geschlechtern und Altersgruppen? 
 
 
 
 
-Taboo:
+### **Taboo**:
 Was ist ein Taboo? Welche Taboos existieren? Welche Konsequenzen folgen, wenn ein Taboo gebrochen wird? Für wen gelten die Taboos? Unterscheiden sich die Taboos anhand von Kasten/Klassen/Subkulturen, Geschlechtern und Altersgruppen? 
 
 
 
 
 
-Gesetze:
+### **Gesetze**:
 Welche formalen und informalen Gesetze existieren unter den Wesen? Woher stammen sie? Wie werden sie durchgesetzt? Was sind Strafen für die Missachtung? Wer beurteilt wer die Gesetze verletzt hat? Gibt es eine zentrale Authorität oder traditionelle Durchsetzungsstrukturen? 
 
 
 
 
-Bestrafung:
+### **Bestrafung**:
 Welche Art von Bestrafung ist allgemein akzeptiert? Welche Art von Bestrafungen folgen auf welche Verbrechen? Existiert die Todesstrafe? Glauben die Wesen an das Konzept der Rehabilitation? 
 
 
 
 
-Drogen:
+### **Drogen**:
 Welche Drogen sind von diesen Wesen akzeptiert? Wird der Konsum bestimmter Drogen durch die Gesellschaft angeregt? Unter welchen Umständen ist es akzeptiert Drogen zu konsumieren? Welche Drogen sind nicht erlaubt und warum? 
 
 
 
-Sprache:
+### **Sprache**:
 Wie heißt die Sprache der Wesen? Wie hört sie sich an? Ist sie verwandt mit anderen Sprachen? Wie einfach/schwer ist es sie zu lernen? 
 
 
 
 
 	
-Kultureller Glaube:
-Vorfahren:
+## Kultureller Glaube
+
+### **Vorfahren**:
 Wie sehen die Wesen ihre Vorfahren? Werden sie verehrt? Vergessen? Wird sich einfach nur an sie erinnert? Was geben die Vorfahren den Lebenden?
 
 
 
 
-Helden:
+### **Helden**:
 Gibt es mythische Helden? Reale Helden? Wie werden sie gesehen? Was macht sie zu Helden? Was sind ihre Schwächen und Fehler?
 
 
 
 
 
-Gesundheit/Medizin:
+### **Gesundheit/Medizin:**
 Wie werten die Wesen Gesundheit und Medizin? Was kann ein Individuum tun, um gesund zu leben? Gibt es Ärzte? Wie verbreitet sind sie? Hygiene? Haben sie Erfahrungen mit Seuchen gemacht? 
 
 
 
 
-Psychische Gesundheit:
-Wie sehen die Wesen Mental Health? Wie werden jene beurteilt, die unter psychischen Problemen leiden? Was sind Gründe für die Krankheiten? Gibt es Behandlungsmethoden? Werden sie erforscht?
+### **Psychische Gesundheit:**
+Wie sehen die Wesen Mental Health? Wie werden jene beurteilt, die unter psychischen Problemen leiden? Was sind Gründe für die [Krankheiten](../../../Krankheiten.md)? Gibt es Behandlungsmethoden? Werden sie erforscht?
 
 
 
 
-Tag/Nacht/Jahreszeiten:
+### **Tag/Nacht/Jahreszeiten:**
 Wie werden die einzelnen Jahreszeiten gesehen? Verfügen die Wesen über einen geregelten Tag/Nacht Rhythmus? Haben die Zeiten bestimmte kulturelle Bedeutungen? 
 
 
 
 
-Astronomie:
+### **Astronomie**:
 Welche Bedeutung haben die Gestirne für die Perspektive der Wesen? Wie nennen sie die Gestirne, was bedeuten sie? 
 
 
 
-Kosmologie:
+### **Kosmologie**:
 An welchen Schöpfungsmyhtos glauben sie? Wie stehen sie zu den Göttern? Was glauben sie bringt die Zukunft? 
 
 
 
 
-Geschichte:
+### **Geschichte**:
 Wie sehen die Wesen ihre Vergangenheit? Was sind die wichtigen Teile? Was ist unwichtig? Was will vergessen werden? Was wurde verborgen? Was ist bereits vergessen worden? Wie viel der Geschichte ist einem durchschnittlichen Wesen bekannt? Einem Gelehrten? 
 
 
 
 
 
-Die natürliche Welt/Natur:
+### **Die natürliche Welt/Natur:**
 Wie wird die Natur gesehen? Wie ist das Verhältnis der Wesen zur unangetasteten Welt? Wie sehen sie unbewohnte Bereiche?
 
 
 
 
-Die künstliche Welt:
+### **Die künstliche Welt:**
 Wie wird “Kultur” beurteilt? Wie wird die künstlich erschaffene Welt gesehen? Wie sehen sie Dörfer? Städte? Metropolen? Großflächige Veränderungen der Landschaft? 
 
 
 
 
-Okkultismus:
+### **Okkultismus**:
 Wie stehen die Wesen gegenüber dem Okkulten? Dem “geheimen”, nicht akzeptierten Wissen der Welt, das nicht nachgewiesen werden kann? 
 
 
 
 
-Monster:
-Welche myhtologischen Monster oder verborgene Tiere existieren in den Legenden der Wesen? Glauben sie an diese Wesen? Wie wird damit umgegangen? 
+### **Monster**:
+Welche myhtologischen Monster oder verborgene Tiere existieren in den [Legenden](../../../Legenden.md) der Wesen? Glauben sie an diese Wesen? Wie wird damit umgegangen? 
 
 
 
 
-Magie:
+### **Magie**:
 Wie wird die Magie von den Leuten beurteilt? Werden alle Arten der Magie gleich gesehen oder werden bestimmte Arten bevorzugt? Sind bestimmte Arten verboten? Warum? 
 
 
@@ -592,346 +626,404 @@ Wie wird die Magie von den Leuten beurteilt? Werden alle Arten der Magie gleich 
 
 
 
-Göttlichkeit:
-Wie wird die Göttlichkeit von den Wesen beurteilt? Fürchten sie die Götter? Verehren sie sie? Glauben sie daran, dass die Götter wirklich die Ordnung sind? Sind sie Feinde? 
+### **Göttlichkeit**:
+Wie wird die Göttlichkeit von den Wesen beurteilt? Fürchten sie die [Götter](../G%C3%B6tter/index.md)? Verehren sie sie? Glauben sie daran, dass die [Götter](../G%C3%B6tter/index.md) wirklich die Ordnung sind? Sind sie Feinde? 
 
 
 
 
 	
-Demographie:
-Siedlungen/Dörfer/Städte:
+## Demographie
+
+### **Siedlungen/Dörfer/Städte:**
 Leben die Wesen eher in kleinen Siedlungen, Dörfern oder Städten? Wie groß sind sie? Wer kontrolliert und verwaltet diese Bevölkerungszentren?
 
 
 
 
-Urban vs Rural:
+### **Urban vs Rural:**
 Wie ländlich/städtisch sind die Wesen? Was sind die ökonomischen und sozialen Unterschiede zwischen Stadt und Land? Wo liegt die wahre Macht der Gesellschaft/Wirtschaft?
 
 
 
-Migration/Mobilität:
+### **Migration/Mobilität:**
 Wie bewegen sich die Wesen in ihrem Land? Warum tun sie es? Sind es lange oder kurze Distanzen? Kehren sie in ihre “Heimat” zurück? Sind sie Nomaden? Bewegen sich nur bestimmte Bevölkerungsgruppen? Sterben die meisten Wesen dort, wo sie geboren wurden? 
 
 
 
-An der Grenze:
+### **An der Grenze:**
 Wie sehen die Grenzterritorien dieser Wesen aus? Wo sind sie? Wer lebt dort? Warum? Wie wird die Gegend von anderen wahrgenommen? Wie werden die Bewohner wahrgenommen? Wie stark ist der Einfluss der Regierung?
 
 
 
-Exploration:
+### **Exploration**:
 Erkunden die Wesen neues Territorium? Wie sehen sie Expeditionen? Besitzen sie Werkzeuge, die ihnen dabei helfen?
 
 
 
-Kolonialisierung:
+### **Kolonialisierung**:
 Wie erobern/kolonialisieren die Wesen neue Territorien? Wie stark verbunden sind diese neuen Gebiete mit dem Heimatsland? Was geschieht mit den ursprünglichen Einwohnern? 
 
 
 
-	                                                                                                    
-Konflikt:
-Militär:
+
+## Konflikt
+
+### **Militär**:
 Was für eine Art von Militär besitzen die Wesen? Sind es ausgebildete Soldaten oder eingezogene Bewohner? Spielen die Geschlechte eine Rolle? Gibt es Gruppen innerhalb der Bevölkerung, die nicht im Militär dienen dürfen? Warum? Wer kann im Militär aufsteigen? Wer leitet das Militär? 
 
 
 
-Waffen/Rüstungen:
-Welche Arten von Waffen und Rüstungen benutzen diese Wesen? Sind die Waffen einzigartig für die Wesen? Wurden sich die Waffen von anderen Kulturen abgeguckt? Welche Qualität haben diese Waffen/Rüstungen? Exportieren/Importieren sie die Waffen/Rüstungen? Ist die Herstellung der Waffen/Rüstungen ein beschütztes Geheimnis? 
+
+### **Waffen/Rüstungen:**
+Welche Arten von Waffen und Rüstungen benutzen diese Wesen? Sind die Waffen einzigartig für die Wesen? Wurden sich die Waffen von anderen [Kulturen](./index.md) abgeguckt? Welche Qualität haben diese Waffen/Rüstungen? Exportieren/Importieren sie die Waffen/Rüstungen? Ist die Herstellung der Waffen/Rüstungen ein beschütztes Geheimnis? 
 
 
 
 
-Champions:
+### **Champions**:
 Welche einzigartigen und in gewissem Maße unabhängige Krieger befinden sich unterhalb dieser Wesen? Woher kommen die meisten von ihnen? Worin spezialisieren sie sich? Wie werden sie von der Gesellschaft gesehen? 
 
 
 
-Magie in der Kriegsführung:
-Wie wird Magie in der Kriegsführung benutzt? Haben Magier bestimmte Rollen zu füllen, oder werden sie wie normale Soldaten behandelt? Welche Magie nutzen normale Magier während einer Schlacht? Im Krieg? 
+### **Übernatürliche Kriegsführung:**
+Wie werden übernatürliche Mächte in der Kriegsführung benutzt? Haben die Anwender bestimmte Rollen zu füllen, oder werden sie wie normale Soldaten behandelt? Welche Arten werden normalerweise genutzt? Während einer Schlacht? Im Krieg? 
+
+Die Kirigier besitzen eine Reihe von magischen, aurischen und göttlichen Einheiten innerhalb ihres Heeres. Die gefürchtesten sind die Flammenläufer. 
+#### Aura:
+
+
+#### Magie:
+
+
+#### Göttlichkeit:
+
+##### Die Flammenläufer: 
+Die Flammenläufer sind die gefüchtesten Einheiten der Kirigier. Sie erhalten vom [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) einen Segen, der sie in die Lage versetzt ihr eigenes Blut zu entzünden, es zu verbrennen und dadurch enorme Kräfte zu erhalten. Auf dem Schlachtfeld gelten sie als furchtlose und gnadenlose Berserker, die bis zum Tod kämpfen. Oftmals verbrennen sie all ihr Blut und brechen dadurch noch während der Schlacht leblos zusammen. 
+
+Auch wenn die Flammenläufer bei den Gegnern der Kirigier gefürchtet sind, innerhalb der Struktur der kirigischen Armee und Gesellschaft sind sie Außenseiter. Sie sind eine Suizide Squad. Der Segen des Gottes nimmt ihnen nicht nur Schmerz und Angst, sondern dämpft auch alle anderen Empfindungen und vorallem Motivationen und ersetzt sie mit dem Drang den Blutgott zu befriedigen und mehr seiner Macht zu spüren. Die Flammenläufer sind oftmals ungewollte Söhne, Verbrecher oder ins politische Aus manövrierte Opfer des kirigischen Systems. 
+
+#### Sonstige:
+Himmelsmagie, Ur-Elemente, Schattenmächte, etc. 
 
 
 
-
-Krieg/Eroberungen:
+### **Krieg/Eroberungen:**
 Führen die Wesen Krieg? Fangen sie die Kriege an oder verteidigen sie sich? Wie sehen sie Krieg? Wie werden eroberte Völker behandelt? Wie expansionistisch sind die Wesen? Warum? 
 
+- [Sortêk](../../Sort%C3%AAk.md): Eroberung einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) im Namen des [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md). 
 
 
-
-Widerstand:
+### **Widerstand:**
 Welche Art von Widerstand führen die Wesen aus? Warum? Gegen welche andere Gruppe ist der Widerstand gerichtet? 
 
 
 
 
-Ungehorsamkeit:
+### **Ungehorsamkeit**:
 Wie wird Insubordination in der Armee behandelt? Ab wann gilt man als Deserteur und welche Konsequenzen hat das? Ab wann würden die Wesen die Armee trotz der Konsequenzen verlassen? 
 
 
 
-Raiding:
+### **Raiding**:
 Führen die Wesen regelmäßig Überfalle auf andere Völker aus? Ist es akzeptiert dies zu tun? Wer überfällt und wer ist das Ziel? Warum? 
 
 
 
-Sklaverei:
+### **Sklaverei**:
 Ist Sklaverei erlaubt? Wer kann versklavt werden? Sind Kinder von Sklaven frei oder Sklaven? Welche Rechte haben Sklaven? Wie können Sklaven frei werden? 
 
 
 
 
-Aufgabe:
+### **Aufgabe**:
 Wann geben die Wesen ihre Häuser und Heimat auf? Wenn alles was sie besitzen zerstört ist, suchen sie sich ein neues Zuhause oder bauen sie alles wieder auf? 
 
 
 
 
-Natürliche Katastrophen:
+### **Natürliche Katastrophen:**
 Mit welcher Art von natürlichen Katastrophen müssen die Wesen klarkommen? Wie machen sie das? Wie werden diese Katastrophen gesehen? Woher glauben sie kommen diese Katastrophen? 
 
 
 
 
-Krankheiten:
-Mit welchen Krankheiten müssen die Wesen klar kommen? Was wird als Quelle gesehen? Gibt es Methoden die Krankheiten zu behandeln? Wie viele Wesen sterben im Durchschnitt an Krankheiten? 
+### **[Krankheiten](../../../Krankheiten.md)**:
+Mit welchen [Krankheiten](../../../Krankheiten.md) müssen die Wesen klar kommen? Was wird als Quelle gesehen? Gibt es Methoden die [Krankheiten](../../../Krankheiten.md) zu behandeln? Wie viele Wesen sterben im Durchschnitt an [Krankheiten](../../../Krankheiten.md)? 
 
 
 
+### Schattenmächte: 
+Befinden sich Teile der Kultur unter dem Einfluss von [Schattenmächten](Schattenm%C3%A4chten.md)? Wenn ja, wie werden sie beeinflusst und wie kam es dazu? Welche Art von Konflikt wird über kurz oder lang durch den Einfluss erzeugt? 
 
-	
-Kulturelle Ereignisse:
-Ereignis (NAME):
+
+
+### Chaoseinfluss: 
+Mit welcher Art von Chaoseinfluss muss die Kultur klar kommen? Wo sind die Quellen und wie gehen sie damit um? 
+
+
+
+### Mutanten: 
+Wie ist die Haltung der Kultur gegenüber Mutanten? Werden sie gehasst, oder sogar verehrt? Welche Gründe gibt es für die Haltung? 
+
+
+
+## Kulturelle Ereignisse
+
+### **Ereignis (NAME):**
 Welche Art von Ereignis ist es? Feiertag? Fest? Treffen? Ritual? Ist es abhängig von der Jahreszeit, der Geschichte oder Tradition? Wer nimmt teil? Was wird von den Teilnehmern erwartet? 
 
 
 
 
 	
-Magie (NAME):
-Generelle Beschreibung:
+## **Magie (NAME)**
+### Generelle Beschreibung:
 
 
 
-Nische/Rolle:
+### **Nische/Rolle:**
 Welchen Zweck hat die Magie für ihre Nutzer? Für die Gesellschaft? Für gewöhnliche nicht-Magier? Wie verbreitet ist sie? 
 
 
 
-Stile:
+### **Stile**:
 Wie wird die Magie benutzt? Gibt es distinktive Stile oder Methoden? Uniformen/Kleidungsstile? Welche Philosophien existieren bezüglich der Magie? 
 
 
 
-Limitationen:
+### **Limitationen**:
 Was kann Magie? Was kann sie nicht? Wo sind die Grenzen? Welche physischen Akte/Bewegungen/Rituale sind notwendig, um die Magie nutzen zu können. 
 
 
 
-Quelle:
+### **Quelle**:
 Was erzeugt die Magie? Woher kommt sie? Von außerhalb des Magiers oder von innen? 
 
 
 
-Nachteile:
+### **Nachteile**:
 Welche Risiken gehen die Magier beim Wirken der Magie ein? Können sie sich übernehmen? Gibt es kurzfristige oder langfristige Auskwirkungen beim Nutzen von Magie auf den Magier? Auf die Umgebung?
 
 
 
 	
-Geringere Magie:
-Name der Magie:
+### **Geringere Magie:**
+#### **Name der Magie:**
 
 
 
-Nutzen und Verbreitung: 
+#### **Nutzen und Verbreitung:** 
 Alle Einzelheiten für eher unwichtige magische Tricks und Methoden. 
 
 
 
 
 	
-Religion (RELIGION NAME):
-Name:
+## Religion (RELIGION NAME)
+
+
+### Name:
 Was ist die Bedeutung des Namens? Woher kommt er? Gibt es alternative Bezeichnungen? 
 
 
 
-Generelle Übersicht:
+### **Generelle Übersicht:**
 Kurze Übersicht über die Religion. Am Ende ausfüllen, damit es als Kurzbeschreibung im Buch verwendet werden kann. 
 Was sind die wichtigsten Grundlagen? Wie existiert die Religion im alltäglichen Leben? Existiert ein religiöser Anführer? 
 
 
 
-Geschichte:
+### **Geschichte**:
 Wie hat sich die Religion im Laufe der Jahre verändert? Wie alt ist sie? Welche großen Ereignisse haben sie geprägt? Welche Personen waren von besonderer Wichtigkeit?
 
 
 
-Demographie:
+### **Demographie:**
 Wie verbreitet ist der Glaube? In welchen Regionen wird er gefunden? Welche Rassen/sozialen Gruppen glauben an ihn? Konstituieren die Gläubigen einen Großteil der Bevölkerung oder eine Minderheit? 
 
 
 
-Struktur:
+### **Struktur**:
 Wie sind die offiziellen Institutionen dieses Glaubens aufgebaut? Welche Anführerpositionen/Ämter existieren? Wie interagieren diese Anführer mit den gewöhnlichen Gläubigen? Welche inoffiziellen/informalen Institutionen existieren? Wer führt sie an? 
 
 
 
-Glaubensgrundsätze/Traditionen/Rituale:
+### **Glaubensgrundsätze/Traditionen/Rituale:**
 Welche typische, erkennbaren Praktiken machen das Fundament des Glaubens aus? Reguläre Treffen, Zeremonien, Rituale, Akte der Reue, individuelles oder gemeinschaftliches Besinnen? Wofür existieren diese Praktiken? Welche Bedeutung sehen die Gläubigen innerhalb der Praktiken bezogen auf ihren eigenen Platz in der Welt und in ihrem Glauben? 
 
 
 
-Gesetze/Normen:
+### **Gesetze/Normen:**
 Welche religiösen Gesetze und Normen existieren? Wer sorgt für die Einhaltung? Von wem wird erwartet, dass er ihnen folgt? Klerus, alle, Fremde? 
 
 
 
-Orte des Glaubens:
-Haben die Gläubigen zentrale Orte um ihren Glauben zu praktizieren? Welche? Warum? Wer ist verantwortlich für die Wartung und Reparatur? Wie sehen sie aus? Erfüllen sie noch andere Funktionen? 
+### **[Orte](../../../Orte.md) des Glaubens:**
+Haben die Gläubigen zentrale [Orte](../../../Orte.md) um ihren Glauben zu praktizieren? Welche? Warum? Wer ist verantwortlich für die Wartung und Reparatur? Wie sehen sie aus? Erfüllen sie noch andere Funktionen? 
 
 
 
-Symbolismus:
+### **Symbolismus**:
 Welche Symbole sind wichtig und warum? Bannzeichen, Schutzzeichen, böse Ohmen, Figuren, etc. 
 
 
-Götter/Mystische Figuren:
-Welche, wenn überhaupt irgendwelche, Götter sind Teil der Religion? Welche Charaktere existieren in den Mythen/Geschichten der Religion? Über welche Mächte verfügen sie? 
+### **[Götter](../G%C3%B6tter/index.md)/Mystische Figuren:**
+Welche, wenn überhaupt irgendwelche, [Götter](../G%C3%B6tter/index.md) sind Teil der Religion? Welche Charaktere existieren in den Mythen/Geschichten der Religion? Über welche Mächte verfügen sie? 
 
 
-Heiliges Wissen:
+### **Heiliges Wissen:**
 Welche Geschichten werden von der Religion gelehrt? Sind sie alle gleichermaßen wichtig? Wer erzählt diese Geschichten? Woher stammen sie? 
 
 
-Schöpfungsmythos:
+### **Schöpfungsmythos:**
 Wie glauben die Anhänger, dass die Welt geboren wurde? Wie stehen sie zu den anderen Göttern? Wie “neu” ist die Schöpfung?
 
 
-Tod:
+### **Tod**:
 Wie behandelt die Religion den Tod? Was geschieht vor und nach dem Tod mit einem Wesen? 
 
 
 
-Religiöser Alltag:
+### **Religiöser Alltag:**
 Wie erfahren die Gläubigen die Religion im Alltag? Wie wichtig ist sie? Sind alle Anhänger der Religion gleich? Gibt es eine religiös begründete Hierarchie unter den Rassen/sozialen Gruppen? Wie stark ausgeprägt ist sie? 
 
 
-Ungläubige/Abtrünnige:
+
+### **Ungläubige/Abtrünnige:**
 Wie werden Außenseiter von Anhängern des Glaubens behandelt und gesehen? Ist es überhaupt akzeptabel sich mit Ungläubigen abzugeben? Wie werden die Gläubigen gesehen, die sich mit Ungläubigen/Abtrünnigen abgeben? Gibt es Missionare? 
 
 
-Heilige Stätten:
-Welche Orte oder Städte gelten in dem Glauben als heilig? Wie lange? Warum? Dürfen sie betreten werden? Werden sie geschützt? Sind sie öffentlich zugänglich? 
+
+### **Heilige Stätten:**
+Welche [Orte](../../../Orte.md) oder Städte gelten in dem Glauben als heilig? Wie lange? Warum? Dürfen sie betreten werden? Werden sie geschützt? Sind sie öffentlich zugänglich? 
 
 
-Religiöse Orden/Organisationen:
+### **Religiöse Orden/Organisationen:**
 Welche Arten von religiösen Organisationen existieren innerhalb der Religion? Sind sie militaristisch? Isolieren sie sich, oder sind sie im Auge der Öffentlichkeit? Wem ist es erlaubt den Orden beizutreten? Wie? Was tun die Orden? Wer führt sie an? 
 
 
 
-Heretische Gruppierungen:
+### **Heretische Gruppierungen:**
 Welche heretischen Gruppen existieren innerhalb der Religion? Warum gelten sie als heretisch? Wie werden von der Mainstream Religion gesehen und behandelt? 
 
 
 
-Magie:
-Spielt Magie eine Rolle in der Religion? Haben Magier eine andere Rolle als nicht-Magier? Warum? 
+### **Magie:**
+Spielt [Magie](../M%C3%A4chte%20der%20Welt/Magie/Magie%20-%20Beschreibung.md) eine Rolle in der Religion? Haben Magier eine andere Rolle als nicht-Magier, Magier, Göttliche? Warum? 
 
 
 
+### Aura:
+Spielt [Aura](../M%C3%A4chte%20der%20Welt/Aura/Aura%20-%20Beschreibung.md) eine Rolle in der Religion? Haben [Aurier](../M%C3%A4chte%20der%20Welt/Aura/Aura%20-%20Beschreibung.md#Aurier) eine andere Rolle als nicht-Magier, Magier, Göttliche? Warum? 
 
-	
-Geschichte:
-Historische Epochen oder Ära:
+
+### Göttlichkeit: 
+Spielt individuelle [Göttlichkeit](../M%C3%A4chte%20der%20Welt/G%C3%B6ttlichkeit/G%C3%B6ttlichkeit%20-%20Beschreibung.md) eine Rolle in der Religion? Haben [Göttliche](../../../Die%20G%C3%B6ttlichen.md) eine andere Rolle als nicht-Magier, Magier, Aurier? Warum? Wie werden [Göttliche](../../../Die%20G%C3%B6ttlichen.md) im Vergleich zum verehrten [Gott](../G%C3%B6tter/Was%20sind%20G%C3%B6tter.md) behandelt? 
+
+
+
+### Chaos und Entropie: 
+Wie werden Chaos und Entropie im Kontext der Religion gesehen? Wie wird die Natur dieser Kräfte verstanden? Ist der Gott offen über die Umstände der Welt, oder biegt er die Wahrheit im Namen seiner Aufgabe die Schöpfung zu verteidigen? Wie werden Mutanten gesehen? 
+
+
+## Geschichte
+
+### **Historische Epochen oder Ära:**
 Generelle Zusammenfassung der wichtigsten Ereignisse. Am Ende zu schreiben, um eine Kurzbeschreibung im Buch zu haben. 
 
 
 
-	
-Größerer Krieg/Konflikt (NAME):
-Name:
+
+## Größerer Krieg/Konflikt (NAME)
+
+### **Name:**
 Wie ist der Name des Wesen? Haben andere Gruppen andere namen für den Konflikt? Welche Bedeutung hat der Name? 
 
 
-Generelle Übersicht:
+#### **Generelle Übersicht:**
 Wann begann er? Wann endete er? Was führte zum Ausbruch? Wie wurde er beendet? 
 
 
 
-Teilnehmer:
+#### **Teilnehmer:**
 Wer war im Konflikt beteiligt? Gab es mehrere Teilnehmer? Wer hat was zu dem Konflikt beigesteuert? Wie sah die militärische Beteiligung aus? Wie sah die zivile/nicht militärische Beteiligung aus? 
 
 
 
-Natur des Konflikts:
+#### **Natur des Konflikts:**
 Welche Form hat der Konflikt angenommen? Offener Krieg, Überfälle? Guerrilla Taktiken? Ethnische Gewalt? Aufstände? Oder.. ? 
 
 
-Schlachten:
+#### **Schlachten:**
 Wer war involviert? Gab es Allianzen? Gab es nicht militärische Teilnehmer? 
 
 
-Ausgang:
+#### **Ausgang:**
 Wie kam der Konflikt zu seinem Ende? Was waren die kurzfristigen und was die langfristigen Konsequenzen?
 
 
-	
-Denkrichtungen/Philosophien:
-Philosophie (NAME):
+
+#### Champions: 
+Gab es individuelle Teilnehmer am Krieg, die sich besonders hervorgetan haben und auf Basis ihres Verdienstes zu Helden gemacht wurden? Was haben sie getan? Wer sind sie? Was ist ihr Ruf? 
+
+
+
+
+## Denkrichtungen/Philosophien
+
+### **Philosophie (NAME):**
 Was sind die Grundsätze? Worauf liegt sie wert? Wer sind ihre größten Vertreter? Wo in der Gesellschaft wird sie relevant? 
 
 
 
 
-	
-Legenden/Geschichten/Mythen:
-Legende/Geschichte/Mythos:
+
+## Legenden/Geschichten/Mythen
+
+### **Legende/Geschichte/Mythos**:
 Wer? Wann? Was? Wie? Warum? Wo? 
 
 
 
 
-	
-Große Nationen:
-Nation:
+
+## Große Nationen
+
+### **Nation:**
 Welche Nationen besitzen die Kultur? Erläuterung/Verweis. 
 
 
 
 
 	
-Größere Siedlungen:
-Siedlungen:
+## Größere Siedlungen
+
+### **Siedlungen**:
 Generelle Übersicht. Warum wichtig? 
 
 
 
 
-	
-Wichtige Orte:
-Ort:
+
+## Wichtige Orte:
+Generelle Übersicht über Vistas mit Bedeutung. Warum wichtig?
+
+
+
+## Wichtige Individuen
+
+### **Individuum**:
 Generelle Übersicht. Warum wichtig?
 
 
-	
-Wichtige Individuen:
-Individuum:
-Generelle Übersicht. Warum wichtig?
 
 
 
-
-	
-Terminologie:
+## Terminologie:
 Glossar. Definitionssammlung für diese Kultur.
 
 
 
 
-	
-Notes:
-
+- [x] Unter-Headings verteilen und formatieren ✅ 2024-02-24

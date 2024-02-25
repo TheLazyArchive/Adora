@@ -5,27 +5,18 @@ tags:
   - Template
   - Adora
 share: "true"
-aliases:
+aliases: 
 ---
 ```table-of-contents
 ```
-
-Template fürs tatsächliche Spiel zur Vorbereitung von Orten, die wichtig für die Handlung sind. 
-
-### Name:
+### Name: Nebelkrone
 
 ### Übergeordneter Ort: 
 
 ### Beschreibung:
 Kurzbeschreibung des Ortes, Fokus auf Atmosphäre und potentielle Gesprächspartner/interaktive Gegenstände.  
 
-
-### Inspiration: 
-
-
-
-### Themes: 
-
+Die Nebelkrone ist ein Berg, dessen Gipfel fast das ganze Jahr über in dichten Nebel gehüllt ist. Dieser Nebel ist magischer Natur und verleiht den Pflanzen und Tieren, die im Bereich des Berges leben, einzigartige Eigenschaften. Die Bewohner haben gelernt, im Einklang mit dem Nebel zu leben, und nutzen seine verborgenen Kräfte, um sich vor Außenstehenden zu schützen. Es heißt, dass im Herzen des Nebels ein uraltes Heiligtum liegt, das nur von den Würdigsten betreten werden kann.
 
 ### Geschichte: 
 Was ist der Hintergrund des Ortes? 
@@ -48,7 +39,7 @@ Wie verändert sich der Ort abhängig von den Jahreszeiten?
 Was sind besondere Eigenschaften des Ortes entweder mundaner oder übernatürlicher Natur? 
 
 
-### Wichtige [Charaktere](../../../Charaktere.md):
+### Wichtige [Charaktere](../../../../../Charaktere.md):
 Welche wichtigen Charaktere sind am Handlungsort anzutreffen und was ist ihre Rolle? 
 
 

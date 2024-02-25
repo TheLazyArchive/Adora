@@ -1,25 +1,33 @@
 ---
-share: "true"
 Status: Draft
 Type: Kultur
 tags:
   - Adora
-  - Template
+share: "true"
 aliases:
+  - Zeferi
 ---
 ```table-of-contents
 ```
 
+Achtung super detailiert. 
+
 ## Kurzbeschreibung:
 
 ### Brainstorming:
-
+- Die Zephyri sind ein nomadisches Volk, das die offenen Ebenen und die weiten Himmel bevorzugt. Sie sind bekannt für ihre außergewöhnlichen Fähigkeiten in der Falknerei und ihre tiefe Verbindung zu den Winden, die sie als heilig betrachten. Viele Stämme dieser Kultur folgen einer wichtigen Handelsroute und übernehmen in diesem Kontext mehrere wichtige Aufgaben wie Schutz, Warentransport, Informationsaustausch und auch Söldnerarbeit. 
+- **Physische Eigenschaften**: Die Zephyri sind durchschnittlich groß und schlank, mit einer Vorliebe für lange, frei fließende Kleidung, die ihre Bewegungsfreiheit nicht einschränkt. Ihre Haare tragen sie oft in komplexen Flechtwerken, die ihre soziale Stellung innerhalb der Gemeinschaft anzeigen.
+- **Einzigartige Fähigkeiten**: Sie besitzen eine intuitive Fähigkeit, Windströmungen zu lesen und zu manipulieren (?), was ihnen in der Navigation und Jagd einen Vorteil verschafft. Ihre engen Bindungen zu den Vögeln, insbesondere zu den Falken, ermöglichen es ihnen, diese als Jagdgefährten oder zur Nachrichtenübermittlung einzusetzen.
+- **Kulturelle Besonderheiten**: Die Zephyri leben in temporären Siedlungen, die sie nach den Jahreszeiten und den Wanderungen der Tiere, die sie jagen, verlegen. Ihre Gesellschaft ist stark egalitär, wobei Entscheidungen oft in großen Versammlungen getroffen werden, an denen alle erwachsenen Mitglieder teilnehmen.
 
 ### Inspiration:
-
+- Mongolen
+- Kamikaze (Japan)
+	- Raijin und Fujin [Japanische Wettergötter – Raijin, der Donnergott und Fujin, Gott des Windes](https://www.japanwelt.de/blog/wettergoetter-japan-raijin-fujin)
+- Seidenstraße
 
 ### Thema:
-Was sind die zentralen Themen der Stadt? Welche Atmosphäre soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
+Was sind die zentralen Themen der Kultur? Welche Eindrücke soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
 
 
 ## Grundlagen
@@ -187,13 +195,9 @@ Welche Minderheiten existieren? Wie werden sie wahrgenommen? Wie werden sie beha
 ### **Fremde [Kulturen](./index.md):**
 Wie werden fremde [Kulturen](./index.md) wahrgenommen? Wie interagieren Mitglieder dieser Kultur mit den fremden [Kulturen](./index.md)? Welche Art von Beziehungen sind mit Fremden erlaubt/verboten?
 
-[Loheni'Da'Hara'In](./Loheni'Da'Hara'In.md): 
-
-[Sternenfahrer](./Die%20Sternenfahrer.md): 
-
-[Zeferi](./Die%20Zeferi.md): 
 
 
+	
 ## Kulturelle Erscheinung
 
 ### **Zierde/Schmuck:**
@@ -676,7 +680,6 @@ Was für eine Art von Militär besitzen die Wesen? Sind es ausgebildete Soldaten
 
 
 
-
 ### **Waffen/Rüstungen:**
 Welche Arten von Waffen und Rüstungen benutzen diese Wesen? Sind die Waffen einzigartig für die Wesen? Wurden sich die Waffen von anderen [Kulturen](./index.md) abgeguckt? Welche Qualität haben diese Waffen/Rüstungen? Exportieren/Importieren sie die Waffen/Rüstungen? Ist die Herstellung der Waffen/Rüstungen ein beschütztes Geheimnis? 
 
@@ -691,7 +694,6 @@ Welche einzigartigen und in gewissem Maße unabhängige Krieger befinden sich un
 ### **Übernatürliche Kriegsführung:**
 Wie werden übernatürliche Mächte in der Kriegsführung benutzt? Haben die Anwender bestimmte Rollen zu füllen, oder werden sie wie normale Soldaten behandelt? Welche Arten werden normalerweise genutzt? Während einer Schlacht? Im Krieg? 
 
-Die Kirigier besitzen eine Reihe von magischen, aurischen und göttlichen Einheiten innerhalb ihres Heeres. Die gefürchtesten sind die Flammenläufer. 
 #### Aura:
 
 
@@ -700,10 +702,6 @@ Die Kirigier besitzen eine Reihe von magischen, aurischen und göttlichen Einhei
 
 #### Göttlichkeit:
 
-##### Die Flammenläufer: 
-Die Flammenläufer sind die gefüchtesten Einheiten der Kirigier. Sie erhalten vom [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) einen Segen, der sie in die Lage versetzt ihr eigenes Blut zu entzünden, es zu verbrennen und dadurch enorme Kräfte zu erhalten. Auf dem Schlachtfeld gelten sie als furchtlose und gnadenlose Berserker, die bis zum Tod kämpfen. Oftmals verbrennen sie all ihr Blut und brechen dadurch noch während der Schlacht leblos zusammen. 
-
-Auch wenn die Flammenläufer bei den Gegnern der Kirigier gefürchtet sind, innerhalb der Struktur der kirigischen Armee und Gesellschaft sind sie Außenseiter. Sie sind eine Suizide Squad. Der Segen des Gottes nimmt ihnen nicht nur Schmerz und Angst, sondern dämpft auch alle anderen Empfindungen und vorallem Motivationen und ersetzt sie mit dem Drang den Blutgott zu befriedigen und mehr seiner Macht zu spüren. Die Flammenläufer sind oftmals ungewollte Söhne, Verbrecher oder ins politische Aus manövrierte Opfer des kirigischen Systems. 
 
 #### Sonstige:
 Himmelsmagie, Ur-Elemente, Schattenmächte, etc. 
@@ -713,7 +711,7 @@ Himmelsmagie, Ur-Elemente, Schattenmächte, etc.
 ### **Krieg/Eroberungen:**
 Führen die Wesen Krieg? Fangen sie die Kriege an oder verteidigen sie sich? Wie sehen sie Krieg? Wie werden eroberte Völker behandelt? Wie expansionistisch sind die Wesen? Warum? 
 
-- [Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md): Eroberung einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) im Namen des [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md). 
+
 
 
 ### **Widerstand:**
@@ -1004,7 +1002,7 @@ Welche Nationen besitzen die Kultur? Erläuterung/Verweis.
 ### **Siedlungen**:
 Generelle Übersicht. Warum wichtig? 
 
-[Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md): Stadt auf einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) unter Kontrolle der Kirigier und ihrem Gott. Verleiht ihnen eine sehr starke militärische Position, die das gesamte Umland bedroht. 
+
 
 
 
@@ -1025,3 +1023,7 @@ Generelle Übersicht. Warum wichtig?
 ## Terminologie:
 Glossar. Definitionssammlung für diese Kultur.
 
+
+
+
+- [x] Unter-Headings verteilen und formatieren ✅ 2024-02-24

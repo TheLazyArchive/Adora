@@ -10,8 +10,6 @@ aliases:
 ```table-of-contents
 ```
 
-Achtung super detailiert. 
-
 ## Kurzbeschreibung:
 
 ### Brainstorming:
@@ -21,7 +19,11 @@ Achtung super detailiert.
 
 
 ### Thema:
-Was sind die zentralen Themen der Stadt? Welche Atmosphäre soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
+Was sind die zentralen Themen der Kultur? Welche Eindrücke soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
+
+
+
+
 
 
 ## Grundlagen
@@ -40,8 +42,7 @@ Eine kurze Übersicht über die Bewohner und Kultur. Querschnitt in kurz. Am End
 
 	
 ### **Physische Eigenschaften:**
-Generische Beschreibung:
-Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen Unterschiede von einem bis zum anderen Extrem?
+Generische Beschreibung: Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen Unterschiede von einem bis zum anderen Extrem?
 
 
 
@@ -50,10 +51,12 @@ Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen U
 Welche einzigartigen Fähigkeiten besitzen diese Wesen? Ist die Natur dieser Fähigkeiten magisch oder natürlich? Wie häufig treten diese Fähigkeiten auf?
 
 
+### Kulturelle Besonderheiten: 
+Was macht die Kultur besonders? Was ist ihr Hook/erster Eindruck? 
 
 
 
-	
+
 ## Geographie
 ### **Heimat:**
 Woher stammen die Wesen? Wo leben sie aktuell? Wer sind ihre Nachbarn?

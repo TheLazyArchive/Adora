@@ -2,33 +2,29 @@
 Status: Draft
 Type: Ort
 tags:
-  - Template
   - Adora
 share: "true"
 aliases:
+  - Echofels
 ---
 ```table-of-contents
 ```
 
-Template fürs tatsächliche Spiel zur Vorbereitung von Orten, die wichtig für die Handlung sind. 
 
-### Name:
+
+### Name: Echofels
 
 ### Übergeordneter Ort: 
 
 ### Beschreibung:
-Kurzbeschreibung des Ortes, Fokus auf Atmosphäre und potentielle Gesprächspartner/interaktive Gegenstände.  
+Echofels ist ein Berg, dessen zahlreiche Höhlen und Tunnel ein natürliches Labyrinth bilden. Die Akustik dieser Strukturen erzeugt ein ständiges Echo, das die Bewohner zur Kommunikation und als Schutzmechanismus gegen Eindringlinge nutzen. Legenden besagen, dass tief im Inneren des Berges ein uraltes Wissen verborgen liegt, bewacht von den Echohütern, einer geheimnisvollen Gruppe von Wächtern.
 
-
-### Inspiration: 
-
-
-
-### Themes: 
-
+Ursprung einer der drei großen Gruppen der [Sternenfahrer](../../../Kulturen/Die%20Sternenfahrer.md). 
 
 ### Geschichte: 
 Was ist der Hintergrund des Ortes? 
+
+
 
 ### Rolle für die Geschichte/Storyhooks:
 Was soll/muss passieren?
@@ -48,7 +44,7 @@ Wie verändert sich der Ort abhängig von den Jahreszeiten?
 Was sind besondere Eigenschaften des Ortes entweder mundaner oder übernatürlicher Natur? 
 
 
-### Wichtige [Charaktere](../../../Charaktere.md):
+### Wichtige [Charaktere](../../../../../Charaktere.md):
 Welche wichtigen Charaktere sind am Handlungsort anzutreffen und was ist ihre Rolle? 
 
 

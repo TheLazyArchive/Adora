@@ -1,30 +1,31 @@
 ---
-Status: Draft
+Status: Idee
 Type: Ort
 tags:
-  - Template
   - Adora
 share: "true"
 aliases:
+  - Falos Denondo
 ---
+
+
 ```table-of-contents
 ```
 
-Template fürs tatsächliche Spiel zur Vorbereitung von Orten, die wichtig für die Handlung sind. 
-
-### Name:
+### Name: Kettenfeste - Falos Denondo
 
 ### Übergeordneter Ort: 
 
 ### Beschreibung:
-Kurzbeschreibung des Ortes, Fokus auf Atmosphäre und potentielle Gesprächspartner/interaktive Gegenstände.  
-
+Eine Burg, die umgedreht in der Luft schwebt. Sie ist mit gigantischen, leicht durchhängenden Ketten mit dem Boden verbunden. 
+Sie ist unnatürlich groß in den Proportionen, als wäre sie für Riesen gebaut. 
 
 ### Inspiration: 
-
-
+- Anor Londo
+- The Eternal City (Nox? Elden Ring)
 
 ### Themes: 
+
 
 
 ### Geschichte: 
@@ -48,7 +49,7 @@ Wie verändert sich der Ort abhängig von den Jahreszeiten?
 Was sind besondere Eigenschaften des Ortes entweder mundaner oder übernatürlicher Natur? 
 
 
-### Wichtige [Charaktere](../../../Charaktere.md):
+### Wichtige [Charaktere](../../../../Charaktere.md):
 Welche wichtigen Charaktere sind am Handlungsort anzutreffen und was ist ihre Rolle? 
 
 

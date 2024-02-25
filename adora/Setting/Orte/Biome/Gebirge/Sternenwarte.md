@@ -1,31 +1,22 @@
 ---
-Status: Draft
+Status: Idee
 Type: Ort
 tags:
-  - Template
   - Adora
 share: "true"
-aliases:
+aliases: 
 ---
 ```table-of-contents
 ```
 
-Template fürs tatsächliche Spiel zur Vorbereitung von Orten, die wichtig für die Handlung sind. 
-
-### Name:
+### Name: Sternenwarte
 
 ### Übergeordneter Ort: 
 
 ### Beschreibung:
 Kurzbeschreibung des Ortes, Fokus auf Atmosphäre und potentielle Gesprächspartner/interaktive Gegenstände.  
 
-
-### Inspiration: 
-
-
-
-### Themes: 
-
+Die Sternenwarte ist ein Berg, dessen Spitze ein perfekter Ort für die Beobachtung des Sternenhimmels ist. Eine alte Zivilisation hat dort ein gigantisches Observatorium errichtet. Dies waren die ursprünglichen [Sternenfahrer](../../../Kulturen/Die%20Sternenfahrer.md), die noch immer dort leben und ihren Gründer, ein [Kinder der Sterne](Kinder%20der%20Sterne.md) verehren. Sie glauben, dass ihr Schicksal in den Sternen geschrieben steht und nutzen die Astronomie, um ihr Wissen über die Welt zu vermehren.
 
 ### Geschichte: 
 Was ist der Hintergrund des Ortes? 
@@ -48,7 +39,7 @@ Wie verändert sich der Ort abhängig von den Jahreszeiten?
 Was sind besondere Eigenschaften des Ortes entweder mundaner oder übernatürlicher Natur? 
 
 
-### Wichtige [Charaktere](../../../Charaktere.md):
+### Wichtige [Charaktere](../../../../../Charaktere.md):
 Welche wichtigen Charaktere sind am Handlungsort anzutreffen und was ist ihre Rolle? 
 
-
+- Der Gründer der [Sternenfahrer](../../../Kulturen/Die%20Sternenfahrer.md): 

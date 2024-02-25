@@ -1,123 +1,142 @@
 ---
-share: "true"
 Status: Draft
 Type: Kultur
 tags:
   - Adora
-  - Template
+  - Kultur
+share: "true"
 aliases:
+  - Sternenfahrer
+  - Astra
 ---
 ```table-of-contents
 ```
-
 ## Kurzbeschreibung:
 
 ### Brainstorming:
-
+- **Kulturelle Besonderheiten**: Ihre Gesellschaft ist geprägt von der Suche nach Wissen und Erleuchtung. Sie verbringen viel Zeit mit Meditation, dem Studium von und der Suche (!) nach alten Texte, um ihr Wissen zu vermehren. Seit dem [Niedergang](../Geschichte%20von%20Adora/Der%20Niedergang.md) sind sie sich langsam nach außen hin am öffnen, um mit den Einwohnern und Wissenden zu sprechen.
 
 ### Inspiration:
-
+- College of Winterhold 
+- 
 
 ### Thema:
-Was sind die zentralen Themen der Stadt? Welche Atmosphäre soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
-
+Was sind die zentralen Themen der Kultur? Welche Eindrücke soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
+- Elitäre Gesellschaft basierend auf Wissen
+- Wissen und die Bedeutung von Wissen
+- Nähe zu den Sternen
+- Verarbeitung eines Weltbilds, das sich schlagartig gewandelt hat
 
 ## Grundlagen
 
-### **Name**:
+### **Name**: 
 Wie nennen sich diese Leute? Wie werden sie von anderen genannt? Welche Bedeutung tragen diese Namen?
 
-
+Sie selbst nennen sich die **Astra**. 
+Von anderen werden sie als **Sternenfahrer** bezeichnet. Die Astra selbst mögen den Namen nicht, da er in ihren Augen unzutreffend ist und ihr Wissen um den Himmel nur andeutet. 
 
  	
 ### **Übersicht**:
 Eine kurze Übersicht über die Bewohner und Kultur. Querschnitt in kurz. Am Ende überarbeiten, damit man es im Buch als Kurzbeschreibung verwenden kann. 
 
+Die Sternenfahrer sind eine geheimnisvolle Kultur, die auf den höchsten Gipfeln und in den abgelegensten Klöstern lebt. Sie sind Astronomen und Philosophen, die den Nachthimmel studieren und versuchen, die Geheimnisse des Universums zu entschlüsseln. Sie gehen auf die ersten [Kinder der Sterne](Kinder%20der%20Sterne.md) zurück und richten ihr Leben um ihre Lehren herum aus. Der [Niedergang](../Geschichte%20von%20Adora/Der%20Niedergang.md) und die Veränderungen am [Himmel](../Orte/Der%20Himmel/Himmel.md) haben ihr Weltbild verändert, was manche von ihnen in eine Glaubens- und Identitätskrise gestürzt hat. 
 
 
 
 	
 ### **Physische Eigenschaften:**
-Generische Beschreibung:
+#### Generische Beschreibung:
 Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen Unterschiede von einem bis zum anderen Extrem?
 
-
+Sie sind zierlich und bewegen sich mit einer anmutigen Leichtigkeit. Ihre Kleidung ist oft mit symbolischen Darstellungen der Himmelskörper verziert und sie kleiden sich in Farben der Himmelsphänomene. Ihre Hautfarbe reicht von super hell und blass bis hin zu sonnengebräunt. Ihre Haare tragen sie lang oder rasieren sich vollständig. 
 
 
 ### **Einzigartige Fähigkeiten:**
 Welche einzigartigen Fähigkeiten besitzen diese Wesen? Ist die Natur dieser Fähigkeiten magisch oder natürlich? Wie häufig treten diese Fähigkeiten auf?
 
+Die Sternenfahrer besitzen ein tiefes Verständnis der Astronomie und Astrologie. Unter ihnen leben im Vergleich zu allen anderen Kulturen die meisten [Kinder der Sterne](Kinder%20der%20Sterne.md). Dadurch verstehen sie mitunter am besten, was die Veränderungen am Himmel bedeuten und welche Rolle die Götter gespielt haben. 
 
 
 
 
-	
 ## Geographie
 ### **Heimat:**
 Woher stammen die Wesen? Wo leben sie aktuell? Wer sind ihre Nachbarn?
 
-
+Die Kultur hat sich auf den Gipfeln der höchsten Bergen entwickelt. Für die Astra sind dies heilige Berge, die auch als die “Ursprungsspitzen” bezeichnet werden. Dies sind der [Echofels](../Orte/Biome/Gebirge/Echofels.md), der [Zwillingsgipfel](../Orte/Biome/Gebirge/Zwillingsgipfel.md) und die [Sternenwarte](../Orte/Biome/Gebirge/Sternenwarte.md). 
 
 
 ### **Klima**:
 Was ist das Klima ihrer Heimatregion? An welches Klima sind sie angepast? In welchem Klima leben sie aktuell?
 
-
+Kalt, weil hoch. Gewöhnt an heftige Winde und Stürme, aber auch an intensive Sonneneinstrahlung wegen der Nähe zum Himmel. 
 
 ### **Terrain**:
 Wie ist die Beschaffenheit des Terrain in der Heimatregion? In dem Bereich, in dem sie zur Zeit leben?
 
+Bergig, dünne Luft, abhängig vom Berg. 
 
 
-	
 ## Wirtschaft
 
 ### **Agrikultur**:
 Betreiben sie Landwirtschaft? Wo und welcher Art? Welche Pflanzen werden dafür genutzt?
 
-
+Sehr begrenzt. Es kommt stark auf den Berg an, auf dem sie leben und was er an Möglichkeiten bietet, aber grundsätzlich können nur die robustesten Pflanzen in den Höhen ihrer Siedlungen überleben. 
 
 
 ### **Domestizierte/Gezähmte Tiere:**
 Welche Tiere wurden domestiziert? Züchten sie Tiere? Sind Tierherden ein wichtiger Bestandteil ihrer Kultur?
 
-
+Sie halten Ziegen, Schafe und ähnliche Kreaturen, die sich an das Leben in den Höhen angepasst haben. Aus ihren Produkten produzieren sie dank ihres fortschrittlichen Wissens einige bekannte Produkte, die so ziemlich überall als Delikatessen gelten. Darunter verschiedene Käseprodukte, aber auch Alkohol und Dinge wie Kleidung und Farbstoffe. 
 
 
 ### **Jagen**:
 Jagen diese Wesen? Was jagen sie? Jagen sie, um sich zu ernähren oder aus anderen Gründen? Wie wichtig ist die Jagd? Wie wichtig ist die Jagd im Vergleich zum Sammeln/Landwirtschaften/Züchten?
 
-
+Kaum. Eher als Sport oder wenn sie mal gezwungen sind sich gegen aggressive Kulturen zu behaupten. 
 
 
 ### **Sammeln**:
 Sammeln diese Wesen? Was sammeln sie? Sammeln sie, um sich zu ernähren oder aus anderen Gründen? Wie wichtig ist das Sammeln? Wie wichtig ist das Sammeln im Vergleich zum Jagen/Landwirtschaften/Züchten?
 
-
-
+Es gibt zwar kaum großflächiges Pflanzenwachstum auf den Bergen, aber ein paar Pflanzen können trotzdem gefunden und genutzt werden. Dies sind besonders Beeren für Farbstoffe und bestimmte Pflanzenfasern, die sie über eine spezielle Webtechnik zu sehr robuster und warmer Kleidung verarbeiten können. 
 
 
 ### **Industrie**:
 Wie industriell sind diese Wesen? Welche Industriearten existieren? Ist die Produktion für den Binnenmarkt oder für den Export?
-
+- Wissen 
+- Weberei 
+- Farbmittelproduktion
+- Käseproduktion
+- Alkoholproduktion
 
 
 
 ### **Natürliche Ressourcen:**
 Welche natürlichen Ressourcen nutzen diese Wesen? Wie wichtig sind sie? Werden sie für den eigenen Gebrauch erwirtschaftet oder um fremden Bedarf zu decken?
 
-
+- Beeren für Farbstoffe
+- Pflanzenfasern 
+- Erze für Farbstoffe und leichte Schmiedearbeit
+- Wolle
+- Milch
 
 
 ### **Handel:**
 Welche Güter werden gehandelt? Binnenhandel? Export? Import? Wie wichtig sind die einzelnen Handelsarten für die Wirtschaft? Gibt es eine Art Handelskaste?
 
-
+- Farbstoffe
+- Käse
+- Alkohol 
+- Wissen
+- Bücher
 
 
 ### **Währung**:
 Haben sie eine Währung? Wie ist die Währung beschaffen? Wie verfügbar ist die Währung? Woher stammt sie und wer hat Gewalt über die Verteilung der Währung?
 
+Sie haben keine eigene Währung und nutzen die der umliegenden Reiche, wenn sie ihre Berge verlassen. Sie selbst untereinander handeln in Wissen und Gefallen. 
 
 ## Politik
 
@@ -172,11 +191,33 @@ Welche Rolle spielt Magie und/oder magisches Wissen in der Poltik? Halten Magier
 ### **Subkulturen**: 
 Gibt es regionale Subkulturen? Wie stehen sie zueinander? Welche Subkultur/Region ist dominant (kulturell, politisch, wirtschaftlich, gesellschaftlich, etc)?
 
+3 große Subkulturen abhängig von der Ursprungsspitze, die sie als Heimat haben. 
+
+[Echofels](../Orte/Biome/Gebirge/Echofels.md): 
+
+
+[Zwillingsgipfel](../Orte/Biome/Gebirge/Zwillingsgipfel.md): 
+
+
+[Sternenwarte](../Orte/Biome/Gebirge/Sternenwarte.md): 
 
 
 ### **Subkulturen - Beziehungen:**
 Wie sehen die Subkulturen aus? Wie viele existieren? Wie groß sind sie? Wie werden sie von der Mainstream Kultur beurteilt? Welche Art der Interaktionen sind mit diesen Subkulturen erlaubt/verboten?
 
+Sie sehen sich alle als Anhänger der Gestirne und sind vereint in ihren Bemühungen Wissen zu sammeln. Jedoch gibt es bestimmte Vorurteile zwischen den großen Traditionen, die ihre Beziehungen und Ansichten prägen. 
+
+Astra des [Echofels](../Orte/Biome/Gebirge/Echofels.md) sehen …. als: 
+- Astra der [Zwillingsgipfel](../Orte/Biome/Gebirge/Zwillingsgipfel.md): 
+- Astra der [Sternenwarte](../Orte/Biome/Gebirge/Sternenwarte.md): 
+
+Astra der [Zwillingsgipfel](../Orte/Biome/Gebirge/Zwillingsgipfel.md) sehen … als: 
+- Astra des [Echofels](../Orte/Biome/Gebirge/Echofels.md): 
+- Astra der [Sternenwarte](../Orte/Biome/Gebirge/Sternenwarte.md): 
+
+AStra der [Sternenwarte](../Orte/Biome/Gebirge/Sternenwarte.md) sehen …. als: 
+- Astra des [Echofels](../Orte/Biome/Gebirge/Echofels.md): 
+- Astra der [Zwillingsgipfel](../Orte/Biome/Gebirge/Zwillingsgipfel.md): 
 
 
 ### **Minderheiten**:
@@ -189,9 +230,11 @@ Wie werden fremde [Kulturen](./index.md) wahrgenommen? Wie interagieren Mitglied
 
 [Loheni'Da'Hara'In](./Loheni'Da'Hara'In.md): 
 
-[Sternenfahrer](./Die%20Sternenfahrer.md): 
+[Kirigier](./Kirigier.md): 
 
-[Zeferi](./Die%20Zeferi.md): 
+[Wunschweber](./Wunschweber.md): 
+
+[Zeferi](Zeferi.md): 
 
 
 ## Kulturelle Erscheinung
@@ -676,7 +719,6 @@ Was für eine Art von Militär besitzen die Wesen? Sind es ausgebildete Soldaten
 
 
 
-
 ### **Waffen/Rüstungen:**
 Welche Arten von Waffen und Rüstungen benutzen diese Wesen? Sind die Waffen einzigartig für die Wesen? Wurden sich die Waffen von anderen [Kulturen](./index.md) abgeguckt? Welche Qualität haben diese Waffen/Rüstungen? Exportieren/Importieren sie die Waffen/Rüstungen? Ist die Herstellung der Waffen/Rüstungen ein beschütztes Geheimnis? 
 
@@ -691,7 +733,6 @@ Welche einzigartigen und in gewissem Maße unabhängige Krieger befinden sich un
 ### **Übernatürliche Kriegsführung:**
 Wie werden übernatürliche Mächte in der Kriegsführung benutzt? Haben die Anwender bestimmte Rollen zu füllen, oder werden sie wie normale Soldaten behandelt? Welche Arten werden normalerweise genutzt? Während einer Schlacht? Im Krieg? 
 
-Die Kirigier besitzen eine Reihe von magischen, aurischen und göttlichen Einheiten innerhalb ihres Heeres. Die gefürchtesten sind die Flammenläufer. 
 #### Aura:
 
 
@@ -700,10 +741,6 @@ Die Kirigier besitzen eine Reihe von magischen, aurischen und göttlichen Einhei
 
 #### Göttlichkeit:
 
-##### Die Flammenläufer: 
-Die Flammenläufer sind die gefüchtesten Einheiten der Kirigier. Sie erhalten vom [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) einen Segen, der sie in die Lage versetzt ihr eigenes Blut zu entzünden, es zu verbrennen und dadurch enorme Kräfte zu erhalten. Auf dem Schlachtfeld gelten sie als furchtlose und gnadenlose Berserker, die bis zum Tod kämpfen. Oftmals verbrennen sie all ihr Blut und brechen dadurch noch während der Schlacht leblos zusammen. 
-
-Auch wenn die Flammenläufer bei den Gegnern der Kirigier gefürchtet sind, innerhalb der Struktur der kirigischen Armee und Gesellschaft sind sie Außenseiter. Sie sind eine Suizide Squad. Der Segen des Gottes nimmt ihnen nicht nur Schmerz und Angst, sondern dämpft auch alle anderen Empfindungen und vorallem Motivationen und ersetzt sie mit dem Drang den Blutgott zu befriedigen und mehr seiner Macht zu spüren. Die Flammenläufer sind oftmals ungewollte Söhne, Verbrecher oder ins politische Aus manövrierte Opfer des kirigischen Systems. 
 
 #### Sonstige:
 Himmelsmagie, Ur-Elemente, Schattenmächte, etc. 
@@ -713,7 +750,7 @@ Himmelsmagie, Ur-Elemente, Schattenmächte, etc.
 ### **Krieg/Eroberungen:**
 Führen die Wesen Krieg? Fangen sie die Kriege an oder verteidigen sie sich? Wie sehen sie Krieg? Wie werden eroberte Völker behandelt? Wie expansionistisch sind die Wesen? Warum? 
 
-- [Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md): Eroberung einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) im Namen des [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md). 
+
 
 
 ### **Widerstand:**
@@ -1004,7 +1041,7 @@ Welche Nationen besitzen die Kultur? Erläuterung/Verweis.
 ### **Siedlungen**:
 Generelle Übersicht. Warum wichtig? 
 
-[Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md): Stadt auf einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) unter Kontrolle der Kirigier und ihrem Gott. Verleiht ihnen eine sehr starke militärische Position, die das gesamte Umland bedroht. 
+
 
 
 
@@ -1025,3 +1062,7 @@ Generelle Übersicht. Warum wichtig?
 ## Terminologie:
 Glossar. Definitionssammlung für diese Kultur.
 
+
+
+
+- [x] Unter-Headings verteilen und formatieren ✅ 2024-02-24

@@ -1,10 +1,12 @@
 ---
-share: "true"
 Status: Draft
 Type: Kultur
 tags:
   - Adora
-  - Template
+  - Kalar
+  - Background
+  - Unterweltler
+share: "true"
 aliases: 
 ---
 ```table-of-contents
@@ -14,22 +16,17 @@ aliases:
 
 ### Brainstorming:
 
-Ursprünglich ein nomadisches Wüstenvolk. Die Nomaden bevölkern noch immer die Wüste unter dem Namen [Namatuh](./Namatuh.md). Allerdings haben die Kirigier kaum noch etwas mit ihren Ursprüngen gemein, da sie dem Blutgott (Flamrot) folgen und durch ihn den Segen von Blut und Feuer erhalten haben. 
-Ihr Blut ist in der Lage die [Roten Früchte](Roten%20Fr%C3%BCchte.md) der Wüste sprießen zu lassen, wodurch es ihnen ermöglicht wurde die Wüste [](.md) zu besiedeln und ihre nomadischen Ursprünge hinter sich zu lassen. Dieser Wechsel zur Sesshaftigkeit hat die kirigische Kultur gegründet.  
-
-Die [Namatuh](./Namatuh.md) mutierten kurz nach dem [Fall](../Geschichte%20von%20Adora/Der%20Niedergang.md) nahezu vollständig. Sie wurden groß, breit und stark. Ihre Frauen umso mehr als die Männer. Ihre Schwangerschaft stärkt sie, statt sie zu schwächen und sie sind bekannt als Wüstenköniginnen. Diese Mutation wird vom [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) ausgenutzt. 
-
-Die Kirigier sind durch den Einfluss des [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md)es extrem kriegerisch geworden. Sie haben [Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md) im Namen ihres Gottes eingenommen. 
-
-Die [Loheni'Da'Hara'In](../../../Loheni'Da'Hara'In.md) sind geschworene Feinde von ihnen, wobei die meisten sie als lebendige Blutsäcke für ihren Gott sehen. Sie versklaven sie und benutzen sie als Blutbanken. 
-
-Bekannt sind sie für die “[Flammenläufer](Kirigier.md#Die%20Flammenläufer)” - eine militärische Einheit, die sich selbst vor dem Kampf an mehreren Stellen aufschlitzt und ihr Blut durch die Macht des Gottes in Flammen setzt. Die “Verbrennung” gibt den Soldaten ungeheure Kräfte und eine enorm starke Eröffnung einer Schlacht. 
+Die Aufgestiegenen sind goldene [Kalar](./Setting/Rassen%20-%20Spezies/Kalar.md), die im [Mittenmeer](./Setting/Orte/Die%20Risswelt/Risslande%20-%20Die%20Mitte/Risslande%20-%20Mittenmeer.md) unter dem Meeresboden leben und [Solnihl](./Setting/G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Solnihl%20der%20Geteilte.md) im Kampf gegen die [Jenseiter](../Jenseiter.md) folgen. Sie sind durch [Solnihls](./Setting/G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Solnihl%20der%20Geteilte.md) Göttlichkeit stark beeinflusst worden und grenzen sich dadurch stark von anderen [Kalar](./Setting/Rassen%20-%20Spezies/Kalar.md) ab. 
 
 ### Inspiration:
 
 
 ### Thema:
-Was sind die zentralen Themen der Stadt? Welche Atmosphäre soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
+Was sind die zentralen Themen der Kultur? Welche Eindrücke soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
+
+
+
+
 
 
 ## Grundlagen
@@ -48,8 +45,7 @@ Eine kurze Übersicht über die Bewohner und Kultur. Querschnitt in kurz. Am End
 
 	
 ### **Physische Eigenschaften:**
-Generische Beschreibung:
-Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen Unterschiede von einem bis zum anderen Extrem?
+Generische Beschreibung: Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen Unterschiede von einem bis zum anderen Extrem?
 
 
 
@@ -58,10 +54,12 @@ Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen U
 Welche einzigartigen Fähigkeiten besitzen diese Wesen? Ist die Natur dieser Fähigkeiten magisch oder natürlich? Wie häufig treten diese Fähigkeiten auf?
 
 
+### Kulturelle Besonderheiten: 
+Was macht die Kultur besonders? Was ist ihr Hook/erster Eindruck? 
 
 
 
-	
+
 ## Geographie
 ### **Heimat:**
 Woher stammen die Wesen? Wo leben sie aktuell? Wer sind ihre Nachbarn?
@@ -173,7 +171,7 @@ Welche Rolle spielt Magie und/oder magisches Wissen in der Poltik? Halten Magier
 
 
 	
-### **Meinung über andere [Kulturen](./index.md):**
+### **Meinung über andere [Kulturen](./Setting/Kulturen/index.md):**
 
 
 ## Regionale Unterschiede
@@ -194,16 +192,12 @@ Welche Minderheiten existieren? Wie werden sie wahrgenommen? Wie werden sie beha
 
 
 
-### **Fremde [Kulturen](./index.md):**
-Wie werden fremde [Kulturen](./index.md) wahrgenommen? Wie interagieren Mitglieder dieser Kultur mit den fremden [Kulturen](./index.md)? Welche Art von Beziehungen sind mit Fremden erlaubt/verboten?
-
-[Loheni'Da'Hara'In](../../../Loheni'Da'Hara'In.md): 
-
-[Sternenfahrer](./Die%20Sternenfahrer.md): 
-
-[Zeferi](./Die%20Zeferi.md): 
+### **Fremde [Kulturen](./Setting/Kulturen/index.md):**
+Wie werden fremde [Kulturen](./Setting/Kulturen/index.md) wahrgenommen? Wie interagieren Mitglieder dieser Kultur mit den fremden [Kulturen](./Setting/Kulturen/index.md)? Welche Art von Beziehungen sind mit Fremden erlaubt/verboten?
 
 
+
+	
 ## Kulturelle Erscheinung
 
 ### **Zierde/Schmuck:**
@@ -312,7 +306,7 @@ Welche Bindungsrituale werden praktiziert? Heirat? Harem? Seelenbund? Was ganz a
 
 
 ### **Mischen von Blut und Rassen:**
-Wie aufgeschlossen sind die Wesen gegenüber Bindungen mit anderen Rassen/[Kulturen](./index.md)? Wie aufgeschlossen sind sie gegenüber Bindungen mit Wesen aus anderen Klassen/Kasten? 
+Wie aufgeschlossen sind die Wesen gegenüber Bindungen mit anderen Rassen/[Kulturen](./Setting/Kulturen/index.md)? Wie aufgeschlossen sind sie gegenüber Bindungen mit Wesen aus anderen Klassen/Kasten? 
 
 
 
@@ -577,7 +571,7 @@ Wie werten die Wesen Gesundheit und Medizin? Was kann ein Individuum tun, um ges
 
 
 ### **Psychische Gesundheit:**
-Wie sehen die Wesen Mental Health? Wie werden jene beurteilt, die unter psychischen Problemen leiden? Was sind Gründe für die [Krankheiten](../../../Krankheiten.md)? Gibt es Behandlungsmethoden? Werden sie erforscht?
+Wie sehen die Wesen Mental Health? Wie werden jene beurteilt, die unter psychischen Problemen leiden? Was sind Gründe für die [Krankheiten](../Krankheiten.md)? Gibt es Behandlungsmethoden? Werden sie erforscht?
 
 
 
@@ -625,7 +619,7 @@ Wie stehen die Wesen gegenüber dem Okkulten? Dem “geheimen”, nicht akzeptie
 
 
 ### **Monster**:
-Welche myhtologischen Monster oder verborgene Tiere existieren in den [Legenden](../../../Legenden.md) der Wesen? Glauben sie an diese Wesen? Wie wird damit umgegangen? 
+Welche myhtologischen Monster oder verborgene Tiere existieren in den [Legenden](../Legenden.md) der Wesen? Glauben sie an diese Wesen? Wie wird damit umgegangen? 
 
 
 
@@ -639,7 +633,7 @@ Wie wird die Magie von den Leuten beurteilt? Werden alle Arten der Magie gleich 
 
 
 ### **Göttlichkeit**:
-Wie wird die Göttlichkeit von den Wesen beurteilt? Fürchten sie die [Götter](../G%C3%B6tter/index.md)? Verehren sie sie? Glauben sie daran, dass die [Götter](../G%C3%B6tter/index.md) wirklich die Ordnung sind? Sind sie Feinde? 
+Wie wird die Göttlichkeit von den Wesen beurteilt? Fürchten sie die [Götter](./Setting/G%C3%B6tter/index.md)? Verehren sie sie? Glauben sie daran, dass die [Götter](./Setting/G%C3%B6tter/index.md) wirklich die Ordnung sind? Sind sie Feinde? 
 
 
 
@@ -686,9 +680,8 @@ Was für eine Art von Militär besitzen die Wesen? Sind es ausgebildete Soldaten
 
 
 
-
 ### **Waffen/Rüstungen:**
-Welche Arten von Waffen und Rüstungen benutzen diese Wesen? Sind die Waffen einzigartig für die Wesen? Wurden sich die Waffen von anderen [Kulturen](./index.md) abgeguckt? Welche Qualität haben diese Waffen/Rüstungen? Exportieren/Importieren sie die Waffen/Rüstungen? Ist die Herstellung der Waffen/Rüstungen ein beschütztes Geheimnis? 
+Welche Arten von Waffen und Rüstungen benutzen diese Wesen? Sind die Waffen einzigartig für die Wesen? Wurden sich die Waffen von anderen [Kulturen](./Setting/Kulturen/index.md) abgeguckt? Welche Qualität haben diese Waffen/Rüstungen? Exportieren/Importieren sie die Waffen/Rüstungen? Ist die Herstellung der Waffen/Rüstungen ein beschütztes Geheimnis? 
 
 
 
@@ -701,7 +694,6 @@ Welche einzigartigen und in gewissem Maße unabhängige Krieger befinden sich un
 ### **Übernatürliche Kriegsführung:**
 Wie werden übernatürliche Mächte in der Kriegsführung benutzt? Haben die Anwender bestimmte Rollen zu füllen, oder werden sie wie normale Soldaten behandelt? Welche Arten werden normalerweise genutzt? Während einer Schlacht? Im Krieg? 
 
-Die Kirigier besitzen eine Reihe von magischen, aurischen und göttlichen Einheiten innerhalb ihres Heeres. Die gefürchtesten sind die Flammenläufer. 
 #### Aura:
 
 
@@ -710,10 +702,6 @@ Die Kirigier besitzen eine Reihe von magischen, aurischen und göttlichen Einhei
 
 #### Göttlichkeit:
 
-##### Die Flammenläufer: 
-Die Flammenläufer sind die gefüchtesten Einheiten der Kirigier. Sie erhalten vom [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) einen Segen, der sie in die Lage versetzt ihr eigenes Blut zu entzünden, es zu verbrennen und dadurch enorme Kräfte zu erhalten. Auf dem Schlachtfeld gelten sie als furchtlose und gnadenlose Berserker, die bis zum Tod kämpfen. Oftmals verbrennen sie all ihr Blut und brechen dadurch noch während der Schlacht leblos zusammen. 
-
-Auch wenn die Flammenläufer bei den Gegnern der Kirigier gefürchtet sind, innerhalb der Struktur der kirigischen Armee und Gesellschaft sind sie Außenseiter. Sie sind eine Suizide Squad. Der Segen des Gottes nimmt ihnen nicht nur Schmerz und Angst, sondern dämpft auch alle anderen Empfindungen und vorallem Motivationen und ersetzt sie mit dem Drang den Blutgott zu befriedigen und mehr seiner Macht zu spüren. Die Flammenläufer sind oftmals ungewollte Söhne, Verbrecher oder ins politische Aus manövrierte Opfer des kirigischen Systems. 
 
 #### Sonstige:
 Himmelsmagie, Ur-Elemente, Schattenmächte, etc. 
@@ -723,7 +711,7 @@ Himmelsmagie, Ur-Elemente, Schattenmächte, etc.
 ### **Krieg/Eroberungen:**
 Führen die Wesen Krieg? Fangen sie die Kriege an oder verteidigen sie sich? Wie sehen sie Krieg? Wie werden eroberte Völker behandelt? Wie expansionistisch sind die Wesen? Warum? 
 
-- [Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md): Eroberung einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) im Namen des [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md). 
+
 
 
 ### **Widerstand:**
@@ -760,8 +748,8 @@ Mit welcher Art von natürlichen Katastrophen müssen die Wesen klarkommen? Wie 
 
 
 
-### **[Krankheiten](../../../Krankheiten.md)**:
-Mit welchen [Krankheiten](../../../Krankheiten.md) müssen die Wesen klar kommen? Was wird als Quelle gesehen? Gibt es Methoden die [Krankheiten](../../../Krankheiten.md) zu behandeln? Wie viele Wesen sterben im Durchschnitt an [Krankheiten](../../../Krankheiten.md)? 
+### **[Krankheiten](../Krankheiten.md)**:
+Mit welchen [Krankheiten](../Krankheiten.md) müssen die Wesen klar kommen? Was wird als Quelle gesehen? Gibt es Methoden die [Krankheiten](../Krankheiten.md) zu behandeln? Wie viele Wesen sterben im Durchschnitt an [Krankheiten](../Krankheiten.md)? 
 
 
 
@@ -871,8 +859,8 @@ Welche religiösen Gesetze und Normen existieren? Wer sorgt für die Einhaltung?
 
 
 
-### **[Orte](../../../Orte.md) des Glaubens:**
-Haben die Gläubigen zentrale [Orte](../../../Orte.md) um ihren Glauben zu praktizieren? Welche? Warum? Wer ist verantwortlich für die Wartung und Reparatur? Wie sehen sie aus? Erfüllen sie noch andere Funktionen? 
+### **[Orte](../Orte.md) des Glaubens:**
+Haben die Gläubigen zentrale [Orte](../Orte.md) um ihren Glauben zu praktizieren? Welche? Warum? Wer ist verantwortlich für die Wartung und Reparatur? Wie sehen sie aus? Erfüllen sie noch andere Funktionen? 
 
 
 
@@ -880,8 +868,8 @@ Haben die Gläubigen zentrale [Orte](../../../Orte.md) um ihren Glauben zu prakt
 Welche Symbole sind wichtig und warum? Bannzeichen, Schutzzeichen, böse Ohmen, Figuren, etc. 
 
 
-### **[Götter](../G%C3%B6tter/index.md)/Mystische Figuren:**
-Welche, wenn überhaupt irgendwelche, [Götter](../G%C3%B6tter/index.md) sind Teil der Religion? Welche Charaktere existieren in den Mythen/Geschichten der Religion? Über welche Mächte verfügen sie? 
+### **[Götter](./Setting/G%C3%B6tter/index.md)/Mystische Figuren:**
+Welche, wenn überhaupt irgendwelche, [Götter](./Setting/G%C3%B6tter/index.md) sind Teil der Religion? Welche Charaktere existieren in den Mythen/Geschichten der Religion? Über welche Mächte verfügen sie? 
 
 
 ### **Heiliges Wissen:**
@@ -908,7 +896,7 @@ Wie werden Außenseiter von Anhängern des Glaubens behandelt und gesehen? Ist e
 
 
 ### **Heilige Stätten:**
-Welche [Orte](../../../Orte.md) oder Städte gelten in dem Glauben als heilig? Wie lange? Warum? Dürfen sie betreten werden? Werden sie geschützt? Sind sie öffentlich zugänglich? 
+Welche [Orte](../Orte.md) oder Städte gelten in dem Glauben als heilig? Wie lange? Warum? Dürfen sie betreten werden? Werden sie geschützt? Sind sie öffentlich zugänglich? 
 
 
 ### **Religiöse Orden/Organisationen:**
@@ -922,16 +910,16 @@ Welche heretischen Gruppen existieren innerhalb der Religion? Warum gelten sie a
 
 
 ### **Magie:**
-Spielt [Magie](../M%C3%A4chte%20der%20Welt/Magie/Magie%20-%20Beschreibung.md) eine Rolle in der Religion? Haben Magier eine andere Rolle als nicht-Magier, Magier, Göttliche? Warum? 
+Spielt [Magie](./Setting/M%C3%A4chte%20der%20Welt/Magie/Magie%20-%20Beschreibung.md) eine Rolle in der Religion? Haben Magier eine andere Rolle als nicht-Magier, Magier, Göttliche? Warum? 
 
 
 
 ### Aura:
-Spielt [Aura](../M%C3%A4chte%20der%20Welt/Aura/Aura%20-%20Beschreibung.md) eine Rolle in der Religion? Haben [Aurier](../M%C3%A4chte%20der%20Welt/Aura/Aura%20-%20Beschreibung.md#Aurier) eine andere Rolle als nicht-Magier, Magier, Göttliche? Warum? 
+Spielt [Aura](./Setting/M%C3%A4chte%20der%20Welt/Aura/Aura%20-%20Beschreibung.md) eine Rolle in der Religion? Haben [Aurier](./Setting/M%C3%A4chte%20der%20Welt/Aura/Aura%20-%20Beschreibung.md#Aurier) eine andere Rolle als nicht-Magier, Magier, Göttliche? Warum? 
 
 
 ### Göttlichkeit: 
-Spielt individuelle [Göttlichkeit](../M%C3%A4chte%20der%20Welt/G%C3%B6ttlichkeit/G%C3%B6ttlichkeit%20-%20Beschreibung.md) eine Rolle in der Religion? Haben [Göttliche](../../../Die%20G%C3%B6ttlichen.md) eine andere Rolle als nicht-Magier, Magier, Aurier? Warum? Wie werden [Göttliche](../../../Die%20G%C3%B6ttlichen.md) im Vergleich zum verehrten [Gott](../G%C3%B6tter/Was%20sind%20G%C3%B6tter.md) behandelt? 
+Spielt individuelle [Göttlichkeit](./Setting/M%C3%A4chte%20der%20Welt/G%C3%B6ttlichkeit/G%C3%B6ttlichkeit%20-%20Beschreibung.md) eine Rolle in der Religion? Haben [Göttliche](../Die%20G%C3%B6ttlichen.md) eine andere Rolle als nicht-Magier, Magier, Aurier? Warum? Wie werden [Göttliche](../Die%20G%C3%B6ttlichen.md) im Vergleich zum verehrten [Gott](./Setting/G%C3%B6tter/Was%20sind%20G%C3%B6tter.md) behandelt? 
 
 
 
@@ -1014,7 +1002,7 @@ Welche Nationen besitzen die Kultur? Erläuterung/Verweis.
 ### **Siedlungen**:
 Generelle Übersicht. Warum wichtig? 
 
-[Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md): Stadt auf einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) unter Kontrolle der Kirigier und ihrem Gott. Verleiht ihnen eine sehr starke militärische Position, die das gesamte Umland bedroht. 
+
 
 
 
@@ -1035,3 +1023,7 @@ Generelle Übersicht. Warum wichtig?
 ## Terminologie:
 Glossar. Definitionssammlung für diese Kultur.
 
+
+
+
+- [x] Unter-Headings verteilen und formatieren ✅ 2024-02-24

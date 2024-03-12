@@ -1,10 +1,10 @@
 ---
-share: "true"
 Status: Draft
 Type: Kultur
 tags:
   - Adora
-  - Template
+  - Kultur
+share: "true"
 aliases: 
 ---
 ```table-of-contents
@@ -14,22 +14,22 @@ aliases:
 
 ### Brainstorming:
 
-Ursprünglich ein nomadisches Wüstenvolk. Die Nomaden bevölkern noch immer die Wüste unter dem Namen [Namatuh](./Namatuh.md). Allerdings haben die Kirigier kaum noch etwas mit ihren Ursprüngen gemein, da sie dem Blutgott (Flamrot) folgen und durch ihn den Segen von Blut und Feuer erhalten haben. 
-Ihr Blut ist in der Lage die [Roten Früchte](Roten%20Fr%C3%BCchte.md) der Wüste sprießen zu lassen, wodurch es ihnen ermöglicht wurde die Wüste [](.md) zu besiedeln und ihre nomadischen Ursprünge hinter sich zu lassen. Dieser Wechsel zur Sesshaftigkeit hat die kirigische Kultur gegründet.  
+Das ursprüngliche Wüstenvolk der [](.md) Wüste. Aus ihnen sind die [Kirigier](./Kirigier.md) hervorgegangen. Durch einen frühen Ausbruch des Chaos kurz nach dem [Fall](../Geschichte%20von%20Adora/Der%20Niedergang.md) ist ein Großteil des Volkes mutiert. Dadurch entstanden zwei verschiedene Bevölkerungsgruppen. Die Tzuyogi und Yowazi. Die Tzuyogi sind die starken, mutierten Namatuh, die später vom [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) ausgewählt wurden zu [Kirigier](./Kirigier.md) zu werden. Die Yowazi sind die “normalen” Namatuh, die nicht von der Chaoswelle erfasst wurden. 
 
-Die [Namatuh](./Namatuh.md) mutierten kurz nach dem [Fall](../Geschichte%20von%20Adora/Der%20Niedergang.md) nahezu vollständig. Sie wurden groß, breit und stark. Ihre Frauen umso mehr als die Männer. Ihre Schwangerschaft stärkt sie, statt sie zu schwächen und sie sind bekannt als Wüstenköniginnen. Diese Mutation wird vom [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) ausgenutzt. 
+Die Namatuh sind zahlenmäßig extrem zurückgegangen. Es gibt nur noch wenige hunderte von ihnen. Sie weigern sich sesshaft zu werden und ihre Heimat zu verlassen. Die [Kirigier](./Kirigier.md) sehen sie nicht als Feinde, aber auch nicht zwangsweise als Verbündete. Die Namatuh werden gedulded und sie wissen, dass sie im Falle eines Konflikts nichts gegen den [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) unternehmen können. 
 
-Die Kirigier sind durch den Einfluss des [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md)es extrem kriegerisch geworden. Sie haben [Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md) im Namen ihres Gottes eingenommen. 
+Sie haben allerdings den Ruf, dass sie die Wüste besser kennen als selbst die [Kirigier](./Kirigier.md) und sie besser zu navigieren wissen. Ihr Name heißt in ihrer Sprache “Sandgeborene”. 
 
-Die [Loheni'Da'Hara'In](../../../Loheni'Da'Hara'In.md) sind geschworene Feinde von ihnen, wobei die meisten sie als lebendige Blutsäcke für ihren Gott sehen. Sie versklaven sie und benutzen sie als Blutbanken. 
-
-Bekannt sind sie für die “[Flammenläufer](Kirigier.md#Die%20Flammenläufer)” - eine militärische Einheit, die sich selbst vor dem Kampf an mehreren Stellen aufschlitzt und ihr Blut durch die Macht des Gottes in Flammen setzt. Die “Verbrennung” gibt den Soldaten ungeheure Kräfte und eine enorm starke Eröffnung einer Schlacht. 
 
 ### Inspiration:
 
 
 ### Thema:
-Was sind die zentralen Themen der Stadt? Welche Atmosphäre soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
+Was sind die zentralen Themen der Kultur? Welche Eindrücke soll sie erzeugen und welche thematischen Bereiche lassen sich hier gut erkunden? 
+
+
+
+
 
 
 ## Grundlagen
@@ -48,8 +48,7 @@ Eine kurze Übersicht über die Bewohner und Kultur. Querschnitt in kurz. Am End
 
 	
 ### **Physische Eigenschaften:**
-Generische Beschreibung:
-Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen Unterschiede von einem bis zum anderen Extrem?
+Generische Beschreibung: Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen Unterschiede von einem bis zum anderen Extrem?
 
 
 
@@ -58,10 +57,12 @@ Wie sieht das typische Durchschnittswesen aus? Wie groß sind die potentiellen U
 Welche einzigartigen Fähigkeiten besitzen diese Wesen? Ist die Natur dieser Fähigkeiten magisch oder natürlich? Wie häufig treten diese Fähigkeiten auf?
 
 
+### Kulturelle Besonderheiten: 
+Was macht die Kultur besonders? Was ist ihr Hook/erster Eindruck? 
 
 
 
-	
+
 ## Geographie
 ### **Heimat:**
 Woher stammen die Wesen? Wo leben sie aktuell? Wer sind ihre Nachbarn?
@@ -197,13 +198,9 @@ Welche Minderheiten existieren? Wie werden sie wahrgenommen? Wie werden sie beha
 ### **Fremde [Kulturen](./index.md):**
 Wie werden fremde [Kulturen](./index.md) wahrgenommen? Wie interagieren Mitglieder dieser Kultur mit den fremden [Kulturen](./index.md)? Welche Art von Beziehungen sind mit Fremden erlaubt/verboten?
 
-[Loheni'Da'Hara'In](../../../Loheni'Da'Hara'In.md): 
-
-[Sternenfahrer](./Die%20Sternenfahrer.md): 
-
-[Zeferi](./Die%20Zeferi.md): 
 
 
+	
 ## Kulturelle Erscheinung
 
 ### **Zierde/Schmuck:**
@@ -686,7 +683,6 @@ Was für eine Art von Militär besitzen die Wesen? Sind es ausgebildete Soldaten
 
 
 
-
 ### **Waffen/Rüstungen:**
 Welche Arten von Waffen und Rüstungen benutzen diese Wesen? Sind die Waffen einzigartig für die Wesen? Wurden sich die Waffen von anderen [Kulturen](./index.md) abgeguckt? Welche Qualität haben diese Waffen/Rüstungen? Exportieren/Importieren sie die Waffen/Rüstungen? Ist die Herstellung der Waffen/Rüstungen ein beschütztes Geheimnis? 
 
@@ -701,7 +697,6 @@ Welche einzigartigen und in gewissem Maße unabhängige Krieger befinden sich un
 ### **Übernatürliche Kriegsführung:**
 Wie werden übernatürliche Mächte in der Kriegsführung benutzt? Haben die Anwender bestimmte Rollen zu füllen, oder werden sie wie normale Soldaten behandelt? Welche Arten werden normalerweise genutzt? Während einer Schlacht? Im Krieg? 
 
-Die Kirigier besitzen eine Reihe von magischen, aurischen und göttlichen Einheiten innerhalb ihres Heeres. Die gefürchtesten sind die Flammenläufer. 
 #### Aura:
 
 
@@ -710,10 +705,6 @@ Die Kirigier besitzen eine Reihe von magischen, aurischen und göttlichen Einhei
 
 #### Göttlichkeit:
 
-##### Die Flammenläufer: 
-Die Flammenläufer sind die gefüchtesten Einheiten der Kirigier. Sie erhalten vom [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) einen Segen, der sie in die Lage versetzt ihr eigenes Blut zu entzünden, es zu verbrennen und dadurch enorme Kräfte zu erhalten. Auf dem Schlachtfeld gelten sie als furchtlose und gnadenlose Berserker, die bis zum Tod kämpfen. Oftmals verbrennen sie all ihr Blut und brechen dadurch noch während der Schlacht leblos zusammen. 
-
-Auch wenn die Flammenläufer bei den Gegnern der Kirigier gefürchtet sind, innerhalb der Struktur der kirigischen Armee und Gesellschaft sind sie Außenseiter. Sie sind eine Suizide Squad. Der Segen des Gottes nimmt ihnen nicht nur Schmerz und Angst, sondern dämpft auch alle anderen Empfindungen und vorallem Motivationen und ersetzt sie mit dem Drang den Blutgott zu befriedigen und mehr seiner Macht zu spüren. Die Flammenläufer sind oftmals ungewollte Söhne, Verbrecher oder ins politische Aus manövrierte Opfer des kirigischen Systems. 
 
 #### Sonstige:
 Himmelsmagie, Ur-Elemente, Schattenmächte, etc. 
@@ -723,7 +714,7 @@ Himmelsmagie, Ur-Elemente, Schattenmächte, etc.
 ### **Krieg/Eroberungen:**
 Führen die Wesen Krieg? Fangen sie die Kriege an oder verteidigen sie sich? Wie sehen sie Krieg? Wie werden eroberte Völker behandelt? Wie expansionistisch sind die Wesen? Warum? 
 
-- [Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md): Eroberung einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) im Namen des [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md). 
+
 
 
 ### **Widerstand:**
@@ -1014,7 +1005,7 @@ Welche Nationen besitzen die Kultur? Erläuterung/Verweis.
 ### **Siedlungen**:
 Generelle Übersicht. Warum wichtig? 
 
-[Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md): Stadt auf einer [Himmelsscherbe](../Orte/Der%20Himmel/Himmelsscherben.md) unter Kontrolle der Kirigier und ihrem Gott. Verleiht ihnen eine sehr starke militärische Position, die das gesamte Umland bedroht. 
+
 
 
 
@@ -1035,3 +1026,7 @@ Generelle Übersicht. Warum wichtig?
 ## Terminologie:
 Glossar. Definitionssammlung für diese Kultur.
 
+
+
+
+- [x] Unter-Headings verteilen und formatieren ✅ 2024-02-24

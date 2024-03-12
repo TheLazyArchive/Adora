@@ -5,7 +5,7 @@ Type: Kultur
 tags:
   - Adora
   - Template
-aliases:
+aliases: 
 ---
 ```table-of-contents
 ```
@@ -14,6 +14,16 @@ aliases:
 
 ### Brainstorming:
 
+Ursprünglich ein nomadisches Wüstenvolk. Die Nomaden bevölkern noch immer die Wüste unter dem Namen [Namatuh](./Namatuh.md). Allerdings haben die Kirigier kaum noch etwas mit ihren Ursprüngen gemein, da sie dem Blutgott (Flamrot) folgen und durch ihn den Segen von Blut und Feuer erhalten haben. 
+Ihr Blut ist in der Lage die [Roten Früchte](Roten%20Fr%C3%BCchte.md) der Wüste sprießen zu lassen, wodurch es ihnen ermöglicht wurde die Wüste [](.md) zu besiedeln und ihre nomadischen Ursprünge hinter sich zu lassen. Dieser Wechsel zur Sesshaftigkeit hat die kirigische Kultur gegründet.  
+
+Die [Namatuh](./Namatuh.md) mutierten kurz nach dem [Fall](../Geschichte%20von%20Adora/Der%20Niedergang.md) nahezu vollständig. Sie wurden groß, breit und stark. Ihre Frauen umso mehr als die Männer. Ihre Schwangerschaft stärkt sie, statt sie zu schwächen und sie sind bekannt als Wüstenköniginnen. Diese Mutation wird vom [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) ausgenutzt. 
+
+Die Kirigier sind durch den Einfluss des [Blutgott](../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md)es extrem kriegerisch geworden. Sie haben [Sortêk](../Orte/Die%20Risswelt/Risslande%20-%20S%C3%BCden/Sort%C3%AAk.md) im Namen ihres Gottes eingenommen. 
+
+Die [Loheni'Da'Hara'In](../../../Loheni'Da'Hara'In.md) sind geschworene Feinde von ihnen, wobei die meisten sie als lebendige Blutsäcke für ihren Gott sehen. Sie versklaven sie und benutzen sie als Blutbanken. 
+
+Bekannt sind sie für die “[Flammenläufer](Kirigier.md#Die%20Flammenläufer)” - eine militärische Einheit, die sich selbst vor dem Kampf an mehreren Stellen aufschlitzt und ihr Blut durch die Macht des Gottes in Flammen setzt. Die “Verbrennung” gibt den Soldaten ungeheure Kräfte und eine enorm starke Eröffnung einer Schlacht. 
 
 ### Inspiration:
 
@@ -187,7 +197,7 @@ Welche Minderheiten existieren? Wie werden sie wahrgenommen? Wie werden sie beha
 ### **Fremde [Kulturen](./index.md):**
 Wie werden fremde [Kulturen](./index.md) wahrgenommen? Wie interagieren Mitglieder dieser Kultur mit den fremden [Kulturen](./index.md)? Welche Art von Beziehungen sind mit Fremden erlaubt/verboten?
 
-[Loheni'Da'Hara'In](./Loheni'Da'Hara'In.md): 
+[Loheni'Da'Hara'In](../../../Loheni'Da'Hara'In.md): 
 
 [Sternenfahrer](./Die%20Sternenfahrer.md): 
 

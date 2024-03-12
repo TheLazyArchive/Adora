@@ -14,11 +14,15 @@ Die Welt braucht vermutlich ein wenig “Magie” vor dem [Fall](../Geschichte%2
 ```table-of-contents
 ```
 ## Schattenmächte
-Die “Schwärze” der [Umbra](../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md). In uralten Zeiten wurden die Umbra eingesperrt, jedoch haben sie es hier und da geschafft zuvor noch Teile außerhalb ihres Gefängnisses zu verderben. Ab und an ist es ihnen sogar gelungen ihren Wächter kurzzeitig auszutricksen und damit ihre Kraft in Adora zu verbreiten. 
+Die “[Schwärze](./Die%20alten%20M%C3%A4chte/Schw%C3%A4rze.md)” der [Umbra](../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md). In uralten Zeiten wurden die Umbra eingesperrt, jedoch haben sie es hier und da geschafft zuvor noch Teile außerhalb ihres Gefängnisses zu verderben. Ab und an ist es ihnen sogar gelungen ihren Wächter kurzzeitig auszutricksen und damit ihre Kraft in Adora zu verbreiten. 
 Für die Unterweltler sieht dies aus als wären die betroffenen Gegenstände von sich windenden Masse unnatürlicher Dunkelheit und Schatten umgeben. Diese Gegenstände/Orte geben enorme Kräfte, verleiten die Träger aber dazu Tod und Zerstörung über die Welt zu bringen, um das Siegel der [Tiefe](../Orte/Biome/Die%20Innere%20Welt/Tiefe.md) zu schwächen. 
 Mit dem [Fall](../Geschichte%20von%20Adora/Der%20Niedergang.md) der Götter und der Schwächung der natürlichen Ordnung, die diese Gegenstände bisher permanent unterdrückt hat, ist ihr Ruf in der Welt nach dem [Fall](../Geschichte%20von%20Adora/Der%20Niedergang.md) noch stärker geworden. 
 
 Auch Orte (?) können betroffen sein. Sie werden dann häufig zu einem Nexus monströser Taten und dunkler Gesinnungen. Überlappt mit [Erden der Macht](Brainstorming%20-%20M%C3%A4chte%20vor%20dem%20Fall.md#Erden%20der%20Macht). Streichen? Wirken vielleicht als entgegensetzte oder sich gegenseitig bestärkende Mächte. Korruption durch die Schattenmächte führt zu einer Anpassung der Erde durch die Geschichte, die sich hier zugetragen hat? 
+
+Visuell entweicht betroffenen Gegenständen oder Gegenden ein schwarzer, kaum merklicher Nebel. Beim genaueren hinsehen, sind kleine Tentakel ähnliche Schatten auf der Oberfläche zu erkennen, die sich immer dann zu bewegen scheinen, wenn man gerade dabei ist den Blick abzuwenden. Wer lange genug hinsieht, erkennt, dass Schatten nicht flach sind, sondern eine Tiefe besitzen, die durchzogen ist mit 3 dimensionalen Fraktalen aus unterschiedlich intensiven Schwarztönen. Deswegen werden betroffene Gegenstände von Gelehrten auch als “Fraktale der Schwärze” oder einfach nur “Fraktale” bezeichnet. 
+
+<u>**→ Wurde zu einem festen Bestandteil der Welt: [Schwärze](./Die%20alten%20M%C3%A4chte/Schw%C3%A4rze.md)**</u>
 
 ### Intention/Zweck
 Gruselige und nicht verstandene Kraft, die ordentlich Konflikt schürt und ein Hinweis auf die Existenz der [Umbra](../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) ist. 
@@ -49,6 +53,8 @@ chaotisch und geordnet, Geist und kreative Energie
 
 ### Intention/Zweck
 Elementarmagie, die ein Ding zwischen Thaumathurgie und Sorcerous Workings aus Exalted ist. Liefert Gründe warum es Geschichten/Legenden/Gerüchte von uralten, utopischen/fantastischen Orten gibt, die in der Welt entdeckt und genutzt werden können. Eventuell die Erklärung und das Grundsystem für Alchemie. Sie könnte einfach eine bestimmte Art der Tradition der Schamenen sein. Das “Brauen” und “Experimentieren” der Alchemisten entspricht dann den eher mystischen Ritualen anderer schamanischer Traditionen. 
+
+<u>**→ Wurde zu einem festen Bestandteil der Welt:</u> [Ur-Elemente](./Die%20alten%20M%C3%A4chte/Ur-Elemente.md)**
 
 ## Himmelslicht
 tldr: Das Licht der Gestirne trägt eine reine, schwierig zu nutzende Energie in sich, die normalerweise nicht mit der Welt Adoras interagiert. Nur jene, die sich dem Himmelslicht in Körper und Geist geöffnet haben, können die Macht der Himmelslichter nutzen, um Licht zu manipulieren und Einfluss auf den Geist und die Gefühle anderer zu nehmen. Die ersten “Kinder der Sterne” wurden vor langer Zeit durch die Offenbarung eines Gottes geboren. Seit dem haben sie die Lehren der Gestirne weitergegeben. 

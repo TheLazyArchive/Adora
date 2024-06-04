@@ -56,6 +56,10 @@ Was sind Gewohnheiten und Ticks des Charakters? Wie verhält er sich in alltägl
 Was ist der Hintergrund des Charakters? Seine Geschichte? Welchen Balast trägt er in die Geschichte und wie wird sie dadurch über den Charakter beeinflusst? 
 
 
+## Beziehungen
+Was sind bedeutende Beziehungen für den Charakter? Wie nehmen sie Einfluss auf ihn? Wie nimmt der Charakter Einfluss auf sie? 
+
+
 ## Macht: 
 Was für besondere Fähigkeiten wie [Aura](../../../Aura.md), [Magie](../../../Magie.md), [Göttlichkeit](../../Setting/M%C3%A4chte%20der%20Welt/G%C3%B6ttlichkeit/G%C3%B6ttlichkeit%20-%20Beschreibung.md), [Ur-Elemente](../../Setting/M%C3%A4chte%20der%20Welt/Die%20alten%20M%C3%A4chte/Ur-Elemente.md)-Kontrolle, etc. hat der Charakter? Wie wichtig sind sie für die Geschichte? Wie viel des Charakters macht die Macht aus? 
 
@@ -80,11 +84,11 @@ Der Charakter entwickelt sich entlang der Geschichte, um bestimmte Aufgaben zu e
 Ausgangslage zu Beginn der Geschichte. Warum ist der Charakter so und wie dient es der Geschichte? 
 
 
-### Höhepunkt/Veränderung
+## Höhepunkt/Veränderung
 Die Stakes für den Charakter erhöhen sich allmählich und treiben ihn - oft aber nicht zwingend - mit der Hauptstory zu seinem persönlichen Wendepunkt/Höhepunkt. Wie dient es der Hauptstory? Helfer? Hindernis? 
 
 
-### Auflösung
+## Auflösung
 Abwicklung der Charakterentwicklung (oder dessen Ausbleiben). Häufig im Epilog, aber auch durch andere Umstände wie Tod/Ausgrenzung/Verbannung/etc. Eignet sich gut um andere Facetten der Hauptgeschichte aufzuzeigen, Verdeutlichung von Konsequenzen der Aktionen der Hauptcharaktere. 
 
 

@@ -8,16 +8,6 @@ tags:
 share: "true"
 aliases: 
 ---
----
-Status: Template
-Type: Setting
-tags:
-  - Adora
-  - Setting
-  - Biom
-share: "true"
-aliases:
----
 ```table-of-contents
 ```
 

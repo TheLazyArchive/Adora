@@ -6,7 +6,7 @@ tags:
   - Gebirge
   - Ort
 share: "true"
-aliases:
+aliases: 
 ---
 ```table-of-contents
 ```

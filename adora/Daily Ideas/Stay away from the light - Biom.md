@@ -14,14 +14,16 @@ aliases:
 ## Kurzbeschreibung
 
 ### Brainstorming
-
+Ein Biom in dem die klassische Assoziation Licht = gut, Dunkelheit = böse umgedreht wird. 
+Die Einheimischen des Bioms sind gezwungen in der Dunkelheit zu leben und das Licht zu meiden, da es von den gefährlichsten Jägern und defacto Herrschern des Bioms genutzt wird, um zu navigieren und Beute anzulocken. 
 
 ### Inspiration 
-
+- Anglerfisch
+- 
 
 ### Thema
 Was sind die zentralen Themen des Bioms?  
-
+Dunkelheit und Licht
 
 ### Name:
 Wie wird es von den Unterweltlern genannt?
@@ -96,7 +98,7 @@ Gibt es drastische Veränderungen in den letzten Jahren, die die Strukturen und 
 Gibt es individuelle Wesen, die sich selbst unter den Apex Predatoren des Ökosystems hervortun? Was macht sie besonders und was ist ihr Einfluss auf das System? 
 
 ### Synx
-Wird das Biom aktuell von einer [Synx](../../Setting/Rassen%20-%20Spezies/Synx.md) oder einem der [Kinder der Synx](../../Setting/Rassen%20-%20Spezies/Kinder%20der%20Synx.md) bewohnt? Welchen Einfluss nehmen sie auf das Biom? 
+Wird das Biom aktuell von einer [Synx](../Setting/Rassen%20-%20Spezies/Synx.md) oder einem der [Kinder der Synx](../Setting/Rassen%20-%20Spezies/Kinder%20der%20Synx.md) bewohnt? Welchen Einfluss nehmen sie auf das Biom? 
 
 ### Göttlicher Einfluss: 
 Gibt es Götter oder Göttliche die durch ihre Natur die Strukturen und Systeme maßgeblich beeinflussen? 
@@ -120,8 +122,8 @@ Welche Wesen wandern gerne mal aus? Einfluss auf die umliegenden Gegenden? Gibt 
 ### Katastrophen:
 Mit welcher Art von natürlichen Katastrophen müssen die Wesen klarkommen? Wie machen sie das? Wie werden diese Katastrophen gesehen? Woher glauben sie kommen diese Katastrophen? 
 
-### [Krankheiten](../../../Krankheiten.md):
-Welche [Krankheiten](../../../Krankheiten.md) existieren im Biom? Gibt es eine Quelle? Welchen Einfluss haben die Krankheiten auf das Biom? 
+### [Krankheiten](../../Krankheiten.md):
+Welche [Krankheiten](../../Krankheiten.md) existieren im Biom? Gibt es eine Quelle? Welchen Einfluss haben die Krankheiten auf das Biom? 
 
 
 ### Jäger: 
@@ -134,20 +136,20 @@ Welche Wesen/Pflanzen erzeugen Probleme für Unterweltler? Rattenplagen, etc.
 
 ## Besondere Orte
 
-### [Orte](../../../Orte.md) der Göttlichkeit:
-Gibt es [Sanktum](../../Setting/G%C3%B6tter/Das%20Sanktum.md)? Gibt es Götter im [Gottschlaf](../../Setting/G%C3%B6tter/Gottschlaf.md)? Was ist ihr Einfluss?
+### [Orte](../../Orte.md) der Göttlichkeit:
+Gibt es [Sanktum](../Setting/G%C3%B6tter/Das%20Sanktum.md)? Gibt es Götter im [Gottschlaf](../Setting/G%C3%B6tter/Gottschlaf.md)? Was ist ihr Einfluss?
 
 
 ### Orte der Magie:
-Gibt es Orte, die mit [Magie](../../../Magie.md) in Verbindung stehen? Was ist ihr Einfluss?
+Gibt es Orte, die mit [Magie](../../Magie.md) in Verbindung stehen? Was ist ihr Einfluss?
 
 
 ### Orte der Aura: 
-Gibt es Orte, die mit der Kraft der [Aura](../../../Aura.md) versehen sind? Was ist ihr Einfluss? 
+Gibt es Orte, die mit der Kraft der [Aura](../../Aura.md) versehen sind? Was ist ihr Einfluss? 
 
 
 ### Ruinen: 
-Gibt es alte Zeugen der Zeit der [Vergessenen](../../Setting/Geschichte%20von%20Adora/Die%20Vorhergegangenen,%20Vergangenen%20und%20Vergessenen.md)? 
+Gibt es alte Zeugen der Zeit der [Vergessenen](../Setting/Geschichte%20von%20Adora/Die%20Vorhergegangenen,%20Vergangenen%20und%20Vergessenen.md)? 
 
 
 ### Schlachtfelder: 

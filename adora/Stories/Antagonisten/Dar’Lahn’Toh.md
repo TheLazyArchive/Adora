@@ -39,7 +39,7 @@ Wie sieht der Charakter aus? Stärken und Einschränkungen?
 
 ## Persönlichkeit: 
 Wie ist die Persönlichkeit des Charakters? Angelegt an Persönlichkeitstests. 
-- [ ] Persönlichkeitstests ansehen und einarbeiten für [Nebencharakter](Nebencharakter.md) und [Hauptcharakter](./Hauptcharakter.md)
+- [ ] Persönlichkeitstests ansehen und einarbeiten für [Nebencharakter](../../Templates/Charaktere/Nebencharakter.md) und [Hauptcharakter](../../Templates/Charaktere/Hauptcharakter.md)
 
 
 
@@ -80,7 +80,7 @@ Welche externen Konflikte hat der Charakter? Wie beeinflussen sie die Geschichte
 ## Entwicklung
 Der Charakter entwickelt sich entlang der Geschichte, um bestimmte Aufgaben zu erfüllen, zu übernehmen oder zu erschweren. Jeder Nebencharakter kann ein eigenes Timing für die Entwicklung haben.
 
-### Startpunkt
+## Startpunkt
 Ausgangslage zu Beginn der Geschichte. Warum ist der Charakter so und wie dient es der Geschichte? 
 
 

@@ -5,7 +5,7 @@ tags:
   - Template
   - Adora
 share: "true"
-aliases:
+aliases: 
 ---
 ```table-of-contents
 ```

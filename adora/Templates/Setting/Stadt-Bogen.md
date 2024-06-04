@@ -7,15 +7,6 @@ tags:
 share: "true"
 aliases: 
 ---
----
-Status: Draft
-Type: Ort
-tags:
-  - Template
-  - Adora
-share: "true"
-aliases:
----
 ```table-of-contents
 style: nestedList # TOC style (nestedList|inlineFirstLevel)
 minLevel: 0 # Include headings from the specified level

@@ -20,7 +20,7 @@ debugInConsole: false # Print debug info in Obsidian console
 ## Kurzbeschreibung:
 
 ### Brainstorming:
-Die Vulkanstadt Sortêk ist eine aus Lava geformte Stadt flüssigen Steins. Sie wurde von den Kirigiern im Krieg um Sortêk im Namen des [Blutgott](../../../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) eingenommen und von ihren ursprünglichen Bewohnern, einer recht großen Gruppe [Kalar](../../../Rassen%20-%20Spezies/Kalar.md), gesäubert. 
+Die Vulkanstadt Sortêk ist eine aus Lava geformte Stadt flüssigen Steins. Sie wurde von den Kirigiern im Krieg um Sortêk im Namen des [Blutgott](../../../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Blutgott.md) eingenommen und von ihren ursprünglichen Bewohnern, einer recht großen Gruppe [Kalar](../../../../../Kalar.md), gesäubert. 
 
 Sie verstecken sich noch tief in den Magmakammern unterhalb der Himmelsscherbe und warten auf eine Chance ihre Stadt zurückzuerobern oder woanders hin zu fliehen. 
 
@@ -287,7 +287,7 @@ Gibt es bekannte Kriegshelden oder Kriegsverbrecher? Was haben getan, um sich ih
 Was sind Ruinen aus vergangenen Zeiten, die eine besondere Bedeutung haben oder einzigartige Eigenschaften haben? Wo befinden sie sich? Wer darf sie betreten? Sind sie gefährlich oder beinhalten sie schätze? Was wird über sie erzählt? 
 
 ### Gegenstände: 
-Gibt es innerhalb der Stadt besondere Gegenstände, die über einzigartige, übernatürliche Fähigkeiten verfügen? Es könnten Relikte vom [ersten Menschen](../../../Rassen%20-%20Spezies/Erste%20Mensch.md) sein, chaotische Gegenstände oder Produkte von Auriern. Sind sie bekannt? Was können sie tun? Ziehen sie Leute von außerhalb an? Wie begehrt sind sie? 
+Gibt es innerhalb der Stadt besondere Gegenstände, die über einzigartige, übernatürliche Fähigkeiten verfügen? Es könnten Relikte vom [ersten Menschen](../../../Rassen%20-%20Spezies/Erste%20Wesen.md) sein, chaotische Gegenstände oder Produkte von Auriern. Sind sie bekannt? Was können sie tun? Ziehen sie Leute von außerhalb an? Wie begehrt sind sie? 
 
 ## Gefahren
 Eine Übersicht über alle Gefahren. Getrennt nach Gefahren für die Stadt als solche und für Bewohner innerhalb der Stadt. 
@@ -372,7 +372,7 @@ Gibt es Ursprüngliche in der Stadt? In der Umgebung?
 - 
 
 ### Synx und ihre Kinder
-Gibt es [Synx](../../../Rassen%20-%20Spezies/Synx.md) oder [Kinder der Synx](../../../Rassen%20-%20Spezies/Kinder%20der%20Synx.md), die die Stadt regelmäßig besuchen oder in der Umgebung leben? 
+Gibt es [Synx](../../../../../Synx.md) oder [Kinder der Synx](../../../Rassen%20-%20Spezies/Kinder%20der%20Synx.md), die die Stadt regelmäßig besuchen oder in der Umgebung leben? 
 - 
 - 
 - 
@@ -382,8 +382,8 @@ Gibt es [Synx](../../../Rassen%20-%20Spezies/Synx.md) oder [Kinder der Synx](../
 ## Hooks
 Was sind konkrete Handlungsstränge und Hooks mit denen Spieler und Spielleiter interagieren können? Wie könnten sie mit den Eigenschaften der Stadt in Verbindung stehen und welchen Einfluss könnten sie haben? 
 
-- Ausrottung der letzten [Kalar](../../../Rassen%20-%20Spezies/Kalar.md)
-- Flucht der [Kalar](../../../Rassen%20-%20Spezies/Kalar.md)
+- Ausrottung der letzten [Kalar](../../../../../Kalar.md)
+- Flucht der [Kalar](../../../../../Kalar.md)
 - Vertreiben der [Kirigier](../../../Kulturen/Kirigier.md)
 - 
 

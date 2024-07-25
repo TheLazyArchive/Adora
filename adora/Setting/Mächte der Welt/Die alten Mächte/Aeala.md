@@ -23,6 +23,8 @@ Sie hegt tiefe Gefühle für ihn und besucht ihn regelmäßig.
 Nach dem Fall ist sie besorgt um sein Wohlergehen, da das Siegel geschwächt wurde und er kompensieren muss. 
 Deswegen sucht sie nach Möglichkeiten ihn zu stärken, das Siegel zu reparieren und die [Umbra](../../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) gefangen zu halten. 
 
+Für die Unterweltler, die Glück haben und sie in ihrem Flug erkennen können, erscheint sie wie ein “gefiederte Göttin”. 
+
 ## Grundlagen
 
 Name: 

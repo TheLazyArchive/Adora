@@ -12,7 +12,11 @@ aliases:
 
 ## Brainstorming
 
+Der Gottjäger ist ein [Shnuk](../../../../Shnuk.md), der nach dem Fall über den nahezu leblosen Körper eines [Gottes](../../G%C3%B6tter/Was%20sind%20G%C3%B6tter.md) gestoßen ist. Er hat angefangen den Gott zu konsumieren und befindet sich aktuell in einem Kampf gegen das nahezu vollständig - aber nicht ganz - ausgelöschte Bewusstsein des Gottes. 
 
+Er ist nur alle paar Monate in der Lage kurz aus seinem komatösen Zustand zu erwachen und mit seiner Umwelt zu interagieren. 
+
+Er ist sich wage bewusst, dass die [Gottesser](../../Kulturen/Gottesser.md) einen Kult um sich herum gebildet haben. Verhindern, will er das nicht, da sie ihn in seinem aktuellen Zustand beschützen und vor inquisitativen Blicken verstecken. 
 ## Grundlagen
 
 Name: 
@@ -42,7 +46,7 @@ Wie sieht der Charakter aus? Stärken und Einschränkungen?
 
 ## Persönlichkeit: 
 Wie ist die Persönlichkeit des Charakters? Angelegt an Persönlichkeitstests. 
-- [ ] Persönlichkeitstests ansehen und einarbeiten für [Nebencharakter](Nebencharakter.md) und [Hauptcharakter](./Hauptcharakter.md)
+- [ ] Persönlichkeitstests ansehen und einarbeiten für [Nebencharakter](../../../Templates/Charaktere/Nebencharakter.md) und [Hauptcharakter](../../../Templates/Charaktere/Hauptcharakter.md)
 
 
 
@@ -64,7 +68,7 @@ Was sind bedeutende Beziehungen für den Charakter? Wie nehmen sie Einfluss auf 
 
 
 ## Macht: 
-Was für besondere Fähigkeiten wie [Aura](../../../Aura.md), [Magie](../../../Magie.md), [Göttlichkeit](../../Setting/M%C3%A4chte%20der%20Welt/G%C3%B6ttlichkeit/G%C3%B6ttlichkeit%20-%20Beschreibung.md), [Ur-Elemente](../../Setting/M%C3%A4chte%20der%20Welt/Die%20alten%20M%C3%A4chte/Ur-Elemente.md)-Kontrolle, etc. hat der Charakter? Wie wichtig sind sie für die Geschichte? Wie viel des Charakters macht die Macht aus? 
+Was für besondere Fähigkeiten wie [Aura](../../../../Aura.md), [Magie](../../../../Magie.md), [Göttlichkeit](../../M%C3%A4chte%20der%20Welt/G%C3%B6ttlichkeit/G%C3%B6ttlichkeit%20-%20Beschreibung.md), [Ur-Elemente](../../M%C3%A4chte%20der%20Welt/Die%20alten%20M%C3%A4chte/Ur-Elemente.md)-Kontrolle, etc. hat der Charakter? Wie wichtig sind sie für die Geschichte? Wie viel des Charakters macht die Macht aus? 
 
 
 

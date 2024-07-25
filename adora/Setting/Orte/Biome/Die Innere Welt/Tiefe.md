@@ -24,22 +24,14 @@ Die Tiefe ist der Kern des Planeten und alles in Adora wurde geschaffen, um die 
 
 ## Das Siegel
 
-Um den Kern, die Tiefe, herum erschuf das Schöpferwesen ein mächtiges Siegel aus allen Elementen Adoras. Diese Elemente repräsentieren alle Rassen der Unterwelt und sind ihr Ursprung. 
-- Stein ([Levodier](../../../Rassen%20-%20Spezies/Levodier.md))
-- Feuer ([Kalar](../../../Rassen%20-%20Spezies/Kalar.md))
-- Holz ([Valori](../../../Rassen%20-%20Spezies/Valori.md))
-- Leben ([Animali](../../../Rassen%20-%20Spezies/Animali.md))
-- Wille ([Menschen - Hominier](../../../Rassen%20-%20Spezies/Menschen%20-%20Hominier.md))
-- Schönheit ([Pasi](../../../Rassen%20-%20Spezies/Pasi.md))
-- Wasser ([Shnuk](../../../../../Shnuk.md))
-- Luft ([Cha'Hili](../../../../../Cha'Hili.md))
-- Ordnung ([Götter](../../../G%C3%B6tter/index.md))
+Um den Kern, die Tiefe, herum erschuf das Schöpferwesen ein mächtiges Siegel und um das Siegel eine Welt, die das Siegel befeuert. Alle Lebewesen in Adora, selbst die Götter, wurden mit dem Zweck erschaffen das Siegel so lange stabil zu halten, wie irgend möglich. 
 
-Dieses Siegel verbaut alle Elemente in einer spherischen Schicht, die die Tiefe zusammendrückt und einen Sog auf alle Wesen Adoras auswirkt, der sowohl metaphorisch wie auch physisch ist. Es zapft die Energie aller Lebewesen ab und ist somit Grund für den Tod, für den Prozess der Alterung von Lebewesen, während es gleichzeitig physisch alles anzieht, um die [Umbra](../../../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) auch durch die gewaltige Kraft der Physik (Gravitation/Druck) zu binden. 
 
-Das Kernstück des Siegels das alle Elemente zusammenbindet ist der [Erste Mensch](../../../Rassen%20-%20Spezies/Erste%20Mensch.md). Auf dem Höhepunkt seiner Macht wurde er vom [Schöpfers](../../../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Sch%C3%B6pferwesen.md) an das Siegel gebunden mit dem Auftrag das Siegel aufrecht zu erhalten. Er koordiniert die Energieverteilung und reagiert auf die Ausbruchsversuche der Umbra (was z.B. sowas wie Erdbeben erzeugt). Der [erste Mensch](../../../Rassen%20-%20Spezies/Erste%20Mensch.md) ist vermutlich das mächtigste singuläre Wesen in Adora. Die Quelle seiner Macht ist das Konzept der [Aura](../../../../../Aura.md). Durch den [Niedergang](../../../Geschichte%20von%20Adora/Der%20Niedergang.md), durch den Fall der [Götter](../../../G%C3%B6tter/index.md) und der [Himmelsscherben](../../Der%20Himmel/Himmelsscherben.md) wurde die Integrität des Planetens und damit auch des Siegels in den Grundfesten erschüttert. Ein Teil der Macht des [ersten Menschens](../../../Rassen%20-%20Spezies/Erste%20Mensch.md) entwich und fehlt nun, um die [Umbra](../../../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) gefangen zu halten. Das Siegel ist nicht gebrochen, aber immer mal wieder schaffen es kleine Teile der [Umbra](../../../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) aus den Tiefen aufzusteigen oder ihren Einfluss auf die Unterweltler auszuweiten. 
+Dieses Siegel verbaut alle Aspekte Adoras in einer sphärischen Schicht, die die Tiefe zusammendrückt. Gleichzeitig wirkt es wie ein Sog auf alle Wesen Adoras, der sowohl metaphorisch wie auch physisch ist. Es zapft die Energie aller Lebewesen ab und ist somit Grund für den Tod, für den Prozess der Alterung von Lebewesen, während es gleichzeitig physisch alles anzieht, um die [Umbra](../../../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) auch durch die gewaltige Kraft der Physik (Gravitation/Druck) zu binden. 
 
-Die [Synx](../../../Rassen%20-%20Spezies/Synx.md) sind die einzige Rasse, die sich dieser Umstände bewusst sind. Sie sind die “Bewacher” des Siegels in der Unterwelt. 
+Das Kernstück des Siegels das alle Elemente zusammenbindet ist das [Erste Wesen](../../../Rassen%20-%20Spezies/Erste%20Wesen.md). Bevor er Auf dem Höhepunkt seiner Macht wurde er vom [Schöpfers](../../../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Sch%C3%B6pferwesen.md) an das Siegel gebunden mit dem Auftrag das Siegel aufrecht zu erhalten. Er koordiniert die Energieverteilung und reagiert auf die Ausbruchsversuche der Umbra (was z.B. sowas wie Erdbeben erzeugt). Der [erste Mensch](../../../Rassen%20-%20Spezies/Erste%20Wesen.md) ist vermutlich das mächtigste singuläre Wesen in Adora. Die Quelle seiner Macht ist das Konzept der [Aura](../../../../../Aura.md). Durch den [Niedergang](../../../Geschichte%20von%20Adora/Der%20Niedergang.md), durch den Fall der [Götter](../../../G%C3%B6tter/index.md) und der [Himmelsscherben](../../Der%20Himmel/Himmelsscherben.md) wurde die Integrität des Planetens und damit auch des Siegels in den Grundfesten erschüttert. Ein Teil der Macht des [ersten Menschens](../../../Rassen%20-%20Spezies/Erste%20Wesen.md) entwich und fehlt nun, um die [Umbra](../../../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) gefangen zu halten. Das Siegel ist nicht gebrochen, aber immer mal wieder schaffen es kleine Teile der [Umbra](../../../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) aus den Tiefen aufzusteigen oder ihren Einfluss auf die Unterweltler auszuweiten. 
+
+Die [Synx](../../../../../Synx.md) sind die einzige Rasse, die sich dieser Umstände bewusst sind. Sie sind die “Bewacher” des Siegels in der Unterwelt. 
 
 
 ## Schichten des Siegels
@@ -62,13 +54,13 @@ Die [Umbra](../../../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) w
 
 
 To Do:
-- [ ] [Kalar](../../../Rassen%20-%20Spezies/Kalar.md) Schöpfungsgeschichte anpassen 
+- [ ] [Kalar](../../../../../Kalar.md) Schöpfungsgeschichte anpassen 
 - [ ] [Levodier](../../../Rassen%20-%20Spezies/Levodier.md) Schöpfungsgeschichte anpassen
 - [ ] [Valori](../../../Rassen%20-%20Spezies/Valori.md) Schöpfungsgeschichte anpassen 
 - [ ] [Animali](../../../Rassen%20-%20Spezies/Animali.md) Schöpfungsgeschichte anpassen 
 - [ ] [Menschen - Hominier](../../../Rassen%20-%20Spezies/Menschen%20-%20Hominier.md) Schöpfungsgeschichte anpassen 
-- [ ] [Pasi](../../../Rassen%20-%20Spezies/Pasi.md) Schöpfungsgeschichte anpassen 
+- [ ] [Pasi](../../../../../Pasi.md) Schöpfungsgeschichte anpassen 
 - [ ] [Shnuk](../../../../../Shnuk.md) Schöpfungsgeschichte anpassen 
 - [ ] [Cha'Hili](../../../../../Cha'Hili.md) Schöpfungsgeschichte anpassen 
 - [ ] [Götter](../../../G%C3%B6tter/index.md) Schöpfungsgeschichte anpassen 
-- [ ] [Synx](../../../Rassen%20-%20Spezies/Synx.md) anpassen
+- [ ] [Synx](../../../../../Synx.md) anpassen

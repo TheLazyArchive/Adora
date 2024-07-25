@@ -281,7 +281,7 @@ Gibt es bekannte Kriegshelden oder Kriegsverbrecher? Was haben getan, um sich ih
 Was sind Ruinen aus vergangenen Zeiten, die eine besondere Bedeutung haben oder einzigartige Eigenschaften haben? Wo befinden sie sich? Wer darf sie betreten? Sind sie gefährlich oder beinhalten sie schätze? Was wird über sie erzählt? 
 
 ### Gegenstände: 
-Gibt es innerhalb der Stadt besondere Gegenstände, die über einzigartige, übernatürliche Fähigkeiten verfügen? Es könnten Relikte vom [ersten Menschen](../../../Rassen%20-%20Spezies/Erste%20Mensch.md) sein, chaotische Gegenstände oder Produkte von Auriern. Sind sie bekannt? Was können sie tun? Ziehen sie Leute von außerhalb an? Wie begehrt sind sie? 
+Gibt es innerhalb der Stadt besondere Gegenstände, die über einzigartige, übernatürliche Fähigkeiten verfügen? Es könnten Relikte vom [ersten Menschen](../../../Rassen%20-%20Spezies/Erste%20Wesen.md) sein, chaotische Gegenstände oder Produkte von Auriern. Sind sie bekannt? Was können sie tun? Ziehen sie Leute von außerhalb an? Wie begehrt sind sie? 
 
 ## Gefahren
 Eine Übersicht über alle Gefahren. Getrennt nach Gefahren für die Stadt als solche und für Bewohner innerhalb der Stadt. 
@@ -366,7 +366,7 @@ Gibt es Ursprüngliche in der Stadt? In der Umgebung?
 - 
 
 ### Synx und ihre Kinder
-Gibt es [Synx](../../../Rassen%20-%20Spezies/Synx.md) oder [Kinder der Synx](../../../Rassen%20-%20Spezies/Kinder%20der%20Synx.md), die die Stadt regelmäßig besuchen oder in der Umgebung leben? 
+Gibt es [Synx](../../../../../Synx.md) oder [Kinder der Synx](../../../Rassen%20-%20Spezies/Kinder%20der%20Synx.md), die die Stadt regelmäßig besuchen oder in der Umgebung leben? 
 - 
 - 
 - 

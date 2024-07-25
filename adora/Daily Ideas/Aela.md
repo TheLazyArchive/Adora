@@ -11,7 +11,11 @@ aliases:
 ```
 
 ## Brainstorming
+Aela ist ein Botenwesen, das dem [Schöpferwesen](../Setting/G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Sch%C3%B6pferwesen.md) dient. Sie war für lange Zeit die Begleiterin und der einzige Kommunikationsweg zwischen dem [Schöpfer](../Setting/G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Sch%C3%B6pferwesen.md) und dem [ersten Menschen](../Setting/Rassen%20-%20Spezies/Erste%20Wesen.md). Sie freundete sich mit ihm an, während er das Siegel der [Tiefe](../Setting/Orte/Biome/Die%20Innere%20Welt/Tiefe.md) erschuf und sich schlussendlich selbst in das Siegel integrierte, um die [Umbra](../Setting/Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) weiterhin im Inneren des Planeten einzusperren. 
 
+Sie ist unzufrieden mit der Abwesenheit des Schöpfers und besucht ihren Freund regelmäßig. 
+
+Für die Unterweltler, die Glück haben und sie in ihrem Flug erkennen können, erscheint sie wie ein “gefiederte Göttin”. 
 
 ## Grundlagen
 
@@ -42,7 +46,7 @@ Wie sieht der Charakter aus? Stärken und Einschränkungen?
 
 ## Persönlichkeit: 
 Wie ist die Persönlichkeit des Charakters? Angelegt an Persönlichkeitstests. 
-- [ ] Persönlichkeitstests ansehen und einarbeiten für [Nebencharakter](Nebencharakter.md) und [Hauptcharakter](./Hauptcharakter.md)
+- [ ] Persönlichkeitstests ansehen und einarbeiten für [Nebencharakter](../Templates/Charaktere/Nebencharakter.md) und [Hauptcharakter](../Templates/Charaktere/Hauptcharakter.md)
 
 
 
@@ -64,7 +68,7 @@ Was sind bedeutende Beziehungen für den Charakter? Wie nehmen sie Einfluss auf 
 
 
 ## Macht: 
-Was für besondere Fähigkeiten wie [Aura](../../../Aura.md), [Magie](../../../Magie.md), [Göttlichkeit](../../Setting/M%C3%A4chte%20der%20Welt/G%C3%B6ttlichkeit/G%C3%B6ttlichkeit%20-%20Beschreibung.md), [Ur-Elemente](../../Setting/M%C3%A4chte%20der%20Welt/Die%20alten%20M%C3%A4chte/Ur-Elemente.md)-Kontrolle, etc. hat der Charakter? Wie wichtig sind sie für die Geschichte? Wie viel des Charakters macht die Macht aus? 
+Was für besondere Fähigkeiten wie [Aura](../../Aura.md), [Magie](../../Magie.md), [Göttlichkeit](../Setting/M%C3%A4chte%20der%20Welt/G%C3%B6ttlichkeit/G%C3%B6ttlichkeit%20-%20Beschreibung.md), [Ur-Elemente](../Setting/M%C3%A4chte%20der%20Welt/Die%20alten%20M%C3%A4chte/Ur-Elemente.md)-Kontrolle, etc. hat der Charakter? Wie wichtig sind sie für die Geschichte? Wie viel des Charakters macht die Macht aus? 
 
 
 

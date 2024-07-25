@@ -14,3 +14,4 @@ Ihre kurze Lebensspanne gepaart mit großen Ambitionen und der Fähigkeit über 
 Es ist üblich für einen Valori sich pro Lebenszyklus ein großes Ziel zu setzen und alles daran zu setzen dieses Ziel zu erreichen. Meistens sind diese Zyklusziele dem großen Lebensziel des Valori untergeordnet und Schritte darin das Lebensziel zu erreichen. 
 
 Ein Valori gilt erst dann als “Erwachsen”, wenn er ein Lebensziel entwickelt, öffenltich verkündet und das erste Zyklusziel zur Erfüllung dieses Lebensziels erreicht hat oder aufgegeben hat es zu versuchen. 
+

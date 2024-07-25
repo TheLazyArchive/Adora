@@ -12,6 +12,16 @@ aliases:
 
 ## Brainstorming
 
+Der “Botenengel” des Schöpferwesens. Erschaffen, um den Kontakt zwischen dem [Schöpferwesen](../../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Sch%C3%B6pferwesen.md) und dem [Erste Wesen](../../Rassen%20-%20Spezies/Erste%20Wesen.md) aufrecht zu erhalten. 
+
+Sie begleitete ihn und leitete ihn an, während er die Grundlagen der Aura in die Welt brachte und alle erdenklichen Fähigkeiten meisterte, um dann das Siegel in der [Tiefe](../../Orte/Biome/Die%20Innere%20Welt/Tiefe.md) fertigzustellen. 
+
+Für eine lange Zeit war sie seine Lehrerin, doch dann drehte er das Blatt um und übertraf sie. 
+
+Sie hegt tiefe Gefühle für ihn und besucht ihn regelmäßig.
+
+Nach dem Fall ist sie besorgt um sein Wohlergehen, da das Siegel geschwächt wurde und er kompensieren muss. 
+Deswegen sucht sie nach Möglichkeiten ihn zu stärken, das Siegel zu reparieren und die [Umbra](../../Gefahren/Feinde%20der%20G%C3%B6tter/Die%20Umbra/Umbra.md) gefangen zu halten. 
 
 ## Grundlagen
 
@@ -42,7 +52,7 @@ Wie sieht der Charakter aus? Stärken und Einschränkungen?
 
 ## Persönlichkeit: 
 Wie ist die Persönlichkeit des Charakters? Angelegt an Persönlichkeitstests. 
-- [ ] Persönlichkeitstests ansehen und einarbeiten für [Nebencharakter](Nebencharakter.md) und [Hauptcharakter](./Hauptcharakter.md)
+- [ ] Persönlichkeitstests ansehen und einarbeiten für [Nebencharakter](../../../Templates/Charaktere/Nebencharakter.md) und [Hauptcharakter](../../../Templates/Charaktere/Hauptcharakter.md)
 
 
 
@@ -64,7 +74,7 @@ Was sind bedeutende Beziehungen für den Charakter? Wie nehmen sie Einfluss auf 
 
 
 ## Macht: 
-Was für besondere Fähigkeiten wie [Aura](../../../Aura.md), [Magie](../../../Magie.md), [Göttlichkeit](../../Setting/M%C3%A4chte%20der%20Welt/G%C3%B6ttlichkeit/G%C3%B6ttlichkeit%20-%20Beschreibung.md), [Ur-Elemente](../../Setting/M%C3%A4chte%20der%20Welt/Die%20alten%20M%C3%A4chte/Ur-Elemente.md)-Kontrolle, etc. hat der Charakter? Wie wichtig sind sie für die Geschichte? Wie viel des Charakters macht die Macht aus? 
+Was für besondere Fähigkeiten wie [Aura](../../../../Aura.md), [Magie](../../../../Magie.md), [Göttlichkeit](../G%C3%B6ttlichkeit/G%C3%B6ttlichkeit%20-%20Beschreibung.md), [Ur-Elemente](./Ur-Elemente.md)-Kontrolle, etc. hat der Charakter? Wie wichtig sind sie für die Geschichte? Wie viel des Charakters macht die Macht aus? 
 
 
 

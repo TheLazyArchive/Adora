@@ -10,6 +10,10 @@ aliases:
 
 - [ ] Protagonisten-Template muss noch ausgearbeitet und erweitert werden [Hauptcharakter](Hauptcharakter.md)
 
+## Brainstorming
+
+
+
 ## Grundlagen
 
 ### Voller Name: 

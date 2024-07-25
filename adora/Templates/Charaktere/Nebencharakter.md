@@ -10,6 +10,9 @@ aliases:
 ```table-of-contents
 ```
 
+## Brainstorming
+
+
 ## Grundlagen
 
 Name: 

@@ -20,7 +20,7 @@ Aura ist die Macht der absoluten Meisterschaft über eine Fähigkeit. Ein Aurier
 
 
 ## Herkunft
-Aura ist die ursprüngliche Fähigkeit des [ersten Unterweltlers](../../Rassen%20-%20Spezies/Erste%20Mensch.md), die es ihm erlaubt hat im Rahmen der Schöpfung eine vergleichbare Macht mit dem [Schöpferwesen](../../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Sch%C3%B6pferwesen.md) zu erlangen. Sie wurde vom Ersten entwickelt, da er jede erdenkliche Fähigkeit gemeistert hat und in der Weltordnung etabliert. 
+Aura ist die ursprüngliche Fähigkeit des [ersten Unterweltlers](../../Rassen%20-%20Spezies/Erste%20Wesen.md), die es ihm erlaubt hat im Rahmen der Schöpfung eine vergleichbare Macht mit dem [Schöpferwesen](../../G%C3%B6tter/Reihen%20der%20G%C3%B6tter/Sch%C3%B6pferwesen.md) zu erlangen. Sie wurde vom Ersten entwickelt, da er jede erdenkliche Fähigkeit gemeistert hat und in der Weltordnung etabliert. 
 
 ## Macht
 Aura ist eine der drei großen Mächte. Sie kann mit [Magie](../Magie/Magie%20-%20Beschreibung.md) und [Göttlichkeit](../../../../G%C3%B6ttlichkeit.md) konkurrieren und ist in der Lage das [Chaos](../../../../Chaos.md) zu bekämpfen. Sie ist die einzige der drei großen Mächte, die keine externe Wesensveränderung verlangt, sondern einzig und allein aus dem Selbst des Anwenders stammt. 
